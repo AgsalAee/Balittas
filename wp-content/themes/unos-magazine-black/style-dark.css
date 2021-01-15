@@ -1,0 +1,417 @@
+/**
+ * Theme Dark Style
+ * ========================================================
+ */
+body {
+  color: #ddd;
+}
+.invert-typo {
+  background: #ddd;
+}
+.enforce-typo {
+  color: #ddd;
+}
+.post-footer {
+  color: #aaaaaa;
+}
+#site-description {
+  color: #ddd;
+}
+.menu-items ul a {
+  color: #ffffff;
+}
+.js-search-placeholder {
+  color: #ddd;
+}
+blockquote,
+#comments-number,
+.comment-meta-block,
+.comment-edit-link,
+.comment-by-author,
+.widget .viewall a {
+  color: #999;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.title,
+#site-title,
+.menu-items > li > a,
+.menu-side-box,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+  color: #fff;
+}
+body {
+  background: #141414;
+}
+.highlight-typo,
+.table-striped tbody tr:nth-child(odd) td,
+.table-striped tbody tr:nth-child(odd) th,
+.sticky > .entry-grid,
+.archive-mosaic .mosaic-sub,
+.main > .loop-meta-wrap.pageheader-bg-default,
+.main > .loop-meta-wrap.pageheader-bg-stretch,
+.main > .loop-meta-wrap.pageheader-bg-both,
+.content .loop-meta-wrap.pageheader-bg-incontent,
+.content .loop-meta-wrap.pageheader-bg-both,
+.comment.bypostauthor > article,
+.comment.bypostauthor + #respond,
+.sub-footer,
+.frontpage-area .module-bg-highlight,
+.gallery,
+.wordpress .wp-block-gallery,
+.verticalcarousel-style1 .verticalcarousel,
+.posts-listunit,
+.hk-listunit {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+@media only screen and (max-width: 969px) {
+  .header-aside-search.js-search .searchform .searchtext,
+  .header-aside-search.js-search .searchform.expand .searchtext {
+    background: rgba(255, 255, 255, 0.06);
+  }
+}
+.menu-items ul li {
+  background-color: rgba(255, 255, 255, 0.14);
+}
+hr,
+.widget_mailpoet_form,
+.widget_newsletterwidget,
+.widget_newsletterwidgetminimal,
+.ticker-title:not(.accent-typo):not(.invert-accent-typo) {
+  color: rgba(255, 255, 255, 0.14);
+}
+.archive-mosaic .entry-grid,
+.archive-mosaic .mosaic-sub,
+.footer,
+.menu-items ul,
+.flycart-toggle,
+.flycart-panel,
+.content-block-style2.hasvisual .content-block {
+  border-color: rgba(255, 255, 255, 0.14);
+}
+@media only screen and (max-width: 969px) {
+  .mobilemenu-fixed .menu-toggle,
+  .mobilemenu-fixed #menu-primary-items,
+  .mobilemenu-fixed #menu-secondary-items {
+    border-color: rgba(255, 255, 255, 0.14);
+  }
+}
+blockquote,
+.main > .loop-meta-wrap.pageheader-bg-incontent,
+.main > .loop-meta-wrap.pageheader-bg-none,
+.content .loop-meta-wrap.pageheader-bg-default,
+.content .loop-meta-wrap.pageheader-bg-stretch,
+.content .loop-meta-wrap.pageheader-bg-none,
+.comment-ping,
+.sub-footer,
+.post-footer,
+.hoot-blogposts-title,
+#header-primary,
+#header-supplementary,
+.below-header,
+.woocommerce div.product .woocommerce-tabs ul.tabs:before,
+.woocommerce div.product .woocommerce-tabs ul.tabs li,
+.hoot-jetpack-style .entry-content .sharedaddy,
+.content-block-style3 .content-block,
+.vcard-links,
+.topborder-line:before,
+.bottomborder-line:after,
+.topborder-shadow:before,
+.bottomborder-shadow:after {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+@media only screen and (max-width: 969px) {
+  .header-aside,
+  .mobilemenu-inline .menu-items,
+  .menu-side-box {
+    border-color: rgba(255, 255, 255, 0.33);
+  }
+}
+.entry-footer,
+.entry-content,
+.loop-nav {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+legend {
+  border-color: rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.9);
+}
+legend small {
+  color: rgba(255, 255, 255, 0.9);
+}
+.input-text,
+textarea,
+select,
+input[type="text"],
+input[type="input"],
+input[type="password"],
+input[type="email"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"] {
+  border-color: rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.06);
+}
+.input-text:focus,
+textarea:focus,
+input[type="text"]:focus,
+input[type="input"]:focus,
+input[type="checkbox"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus {
+  border-color: rgba(255, 255, 255, 0.33);
+  color: rgba(255, 255, 255, 0.9);
+}
+select {
+  background: rgba(255, 255, 255, 0.06) url('include/select.png') no-repeat center right;
+}
+input[disabled],
+select[disabled],
+textarea[disabled],
+input[readonly],
+select[readonly],
+textarea[readonly] {
+  background-color: rgba(255, 255, 255, 0.33);
+}
+select option {
+  background: #3f3f3f;
+}
+.loop-meta-gravatar img {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.comment li.comment,
+.comment li article:before {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+.children #respond:before,
+.children #respond:after {
+  border-color: rgba(255, 255, 255, 0.75);
+}
+.wp-caption-text,
+.wp-block-image figcaption {
+  background: rgba(255, 255, 255, 0.03);
+}
+body .lrm-user-modal-container-inner {
+  background: #131313;
+}
+body .lrm-user-modal-container .lrm-switcher a {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+body .lrm-user-modal-container .lrm-switcher.-is-not-login-only a.selected {
+  background: #131313;
+  color: #fff;
+}
+body .lrm-font-svg .lrm-switch-to--login:before,
+body .lrm-font-svg .lrm-switch-to-link:before {
+  display: none;
+}
+body .lrm-user-modal-container .input-text,
+body .lrm-user-modal-container input[type=email],
+body .lrm-user-modal-container input[type=password],
+body .lrm-user-modal-container input[type=search],
+body .lrm-user-modal-container input[type=tel],
+body .lrm-user-modal-container input[type=text],
+body .lrm-user-modal-container input[type=url],
+body .lrm-user-modal-container select,
+body .lrm-user-modal-container textarea {
+  background-color: rgba(255, 255, 255, 0.13);
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.33);
+}
+.fixed-goto-top {
+  background: rgba(0, 0, 0, 0.5);
+  border: solid 1px rgba(255, 255, 255, 0.25);
+}
+.fixed-goto-top:hover {
+  background: #000;
+}
+.wordpress .button-widget.button {
+  border-color: rgba(0, 0, 0, 0.2);
+}
+.flycart-topicon {
+  background: rgba(255, 255, 255, 0.1);
+  -webkit-box-shadow: inset 2px 2px 3px 0px #000000;
+  -moz-box-shadow: inset 2px 2px 3px 0px #000000;
+  box-shadow: inset 2px 2px 3px 0px #000000;
+}
+.hootkit-toggle-unit {
+  border-color: rgba(0, 0, 0, 0.5);
+}
+.hootkit-toggle-head,
+.hootkit-toggle-box,
+.hootkit-tabhead,
+.hootkit-tabbox {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+.hootkit-toggle-head,
+.hootkit-tabhead {
+  background: rgba(255, 255, 255, 0.14);
+}
+.current-tabhead {
+  background: none;
+}
+.content-block-style3 .icon-style-square {
+  box-shadow: 2px 2px 0px rgba(255, 255, 255, 0.33);
+  border: solid 1px rgba(255, 255, 255, 0.33);
+}
+.content-block-style3 .icon-style-circle {
+  box-shadow: 1px 2px 0px rgba(255, 255, 255, 0.33);
+  border: solid 1px rgba(255, 255, 255, 0.33);
+}
+.vcard-content cite {
+  background: rgba(255, 255, 255, 0.14);
+}
+@media only screen and (max-width: 969px) {
+  .menu-items > li:hover {
+    background: rgba(255, 255, 255, 0.14);
+  }
+}
+.below-header:before {
+  background: none;
+}
+.content .loop-meta-wrap.pageheader-bg-incontent,
+.content .loop-meta-wrap.pageheader-bg-both {
+  border-color: rgba(255, 255, 255, 0.06);
+}
+.footer,
+.post-footer,
+.content-block-style4 .content-block,
+.content-block-style4.visual-image .more-link {
+  background: rgba(255, 255, 255, 0.06);
+}
+@media only screen and (max-width: 969px) {
+}
+.below-header:after {
+  -webkit-box-shadow: inset 0px -4px 5px 0px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: inset 0px -4px 5px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0px -4px 5px 0px rgba(0, 0, 0, 0.3);
+}
+@media only screen and (min-width: 970px) {
+  #header.stuck {
+    -webkit-box-shadow: inset 0px -4px 5px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: inset 0px -4px 5px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0px -4px 5px 0px rgba(0, 0, 0, 0.3);
+  }
+}
+.content-block .entry-byline {
+  background: rgba(255, 255, 255, 0.14);
+}
+.hoot-subtitle,
+.entry-byline,
+.post-gridunit-subtitle .entry-byline,
+.hk-gridunit-subtitle .entry-byline,
+.posts-listunit-subtitle .entry-byline,
+.hk-listunit-subtitle .entry-byline,
+.content-block-subtitle .entry-byline {
+  color: #999;
+}
+.lightSliderVertical .lSAction > a {
+  background: #222;
+  color: #ddd;
+  border: solid 1px rgba(255, 255, 255, 0.33);
+}
+.lightSliderVertical .lSAction > a:hover {
+  background: #000;
+  color: #fff;
+}
+.woocommerce .widget_shopping_cart .total,
+.woocommerce.widget_shopping_cart .total {
+  border-color: inherit;
+}
+.woocommerce ul.cart_list li dl,
+.woocommerce ul.product_list_widget li dl {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+.woocommerce #reviews #comments ol.commentlist li .meta {
+  color: inherit;
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+}
+.woocommerce #reviews #comments ol.commentlist li .comment-text {
+  border-color: rgba(255, 255, 255, 0.33);
+  background: rgba(255, 255, 255, 0.06);
+}
+.woocommerce table.shop_table,
+.woocommerce table.shop_table td,
+#add_payment_method .cart-collaterals .cart_totals tr td,
+#add_payment_method .cart-collaterals .cart_totals tr th,
+.woocommerce-cart .cart-collaterals .cart_totals tr td,
+.woocommerce-cart .cart-collaterals .cart_totals tr th,
+.woocommerce-checkout .cart-collaterals .cart_totals tr td,
+.woocommerce-checkout .cart-collaterals .cart_totals tr th,
+.woocommerce .woocommerce-customer-details address,
+.woocommerce table.shop_table tbody th,
+.woocommerce table.shop_table tfoot td,
+.woocommerce table.shop_table tfoot th {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+.select2-container--default .select2-selection--single {
+  background-color: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.14);
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: rgba(255, 255, 255, 0.9);
+}
+.select2-dropdown {
+  border-color: rgba(255, 255, 255, 0.14);
+  background: #3f3f3f;
+}
+.select2-container--default .select2-results__option[aria-selected=true],
+.select2-container--default .select2-results__option[data-selected=true] {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message,
+#add_payment_method #payment,
+.woocommerce-cart #payment,
+.woocommerce-checkout #payment {
+  color: #fff;
+  background: #222;
+}
+#add_payment_method #payment div.payment_box,
+.woocommerce-cart #payment div.payment_box,
+.woocommerce-checkout #payment div.payment_box {
+  background-color: #444;
+  color: #fff;
+}
+#add_payment_method #payment div.payment_box::before,
+.woocommerce-cart #payment div.payment_box::before,
+.woocommerce-checkout #payment div.payment_box::before {
+  border-bottom-color: #444;
+}
+#add_payment_method #payment ul.payment_methods,
+.woocommerce-cart #payment ul.payment_methods,
+.woocommerce-checkout #payment ul.payment_methods {
+  border-color: rgba(255, 255, 255, 0.33);
+}
+.post-footer .credit {
+  border-color: rgba(255, 255, 255, 0.33);
+}

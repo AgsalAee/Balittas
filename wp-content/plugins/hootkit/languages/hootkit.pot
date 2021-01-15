@@ -1,0 +1,2802 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HootKit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-17 18:41+0530\n"
+"PO-Revision-Date: 2020-11-17 18:41+0530\n"
+"Last-Translator: wpHoot <admin@wphoot.com>\n"
+"Language-Team: wpHoot <admin@wphoot.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../admin/customize-fly-cart.php:41
+msgid "Offscreen Cart (HootKit)"
+msgstr ""
+
+#: ../admin/customize-fly-cart.php:47
+msgid "Button Icon"
+msgstr ""
+
+#: ../admin/customize-fly-cart.php:64
+msgid "Cart Panel Location"
+msgstr ""
+
+#: ../admin/customize-fly-cart.php:68
+msgid "Left Edge of screen"
+msgstr ""
+
+#: ../admin/customize-fly-cart.php:69
+msgid "Right Edge of screen"
+msgstr ""
+
+#: ../admin/customize-fly-cart.php:77
+msgid "Briefly show Cart panel when product is added/removed"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:39
+msgid "Site Top Banner (HootKit)"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:41
+msgid "'Top Banner' is displayed at the top of the site above header"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:45
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:48
+msgid "This image acts as a 'background' only (i.e. it will get cropped to fill the background). To display an image as a banner, add image to 'Content' option below instead."
+msgstr ""
+
+#: ../admin/customize-top-banner.php:54
+msgid "Banner Link URL"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:66
+msgid "Open link in new window?"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:71
+msgid "Banner Link Scope"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:75
+msgid "Entire Background"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:76
+msgid "Content Box"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:84
+msgid "Content Box Size"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:92
+msgid "Stretched option can be useful if you are displaying an image HTML in the 'Content' option below"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:103
+msgid "Remove paddings / spaces at corners?"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:110
+msgid "Content Style"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:114
+#: ../admin/slider-image.php:100
+#: ../admin/slider-postimage.php:98
+msgid "Dark Font"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:115
+#: ../admin/slider-image.php:101
+#: ../admin/slider-postimage.php:99
+msgid "Light Font"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:116
+#: ../admin/slider-image.php:102
+#: ../admin/slider-postimage.php:100
+msgid "Dark Font / Light Background"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:117
+#: ../admin/slider-image.php:103
+#: ../admin/slider-postimage.php:101
+msgid "Light Font / Dark Background"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:125
+msgid "Content Title"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:133
+#: ../admin/slider-postcarousel.php:99
+#: ../admin/slider-postimage.php:105
+msgid "Content"
+msgstr ""
+
+#: ../admin/customize-top-banner.php:150
+#, php-format
+msgid ""
+"%1$s%3$s\n"
+"\t\t\t%5$sInsert Timer%6$s\n"
+"\t\t\tYou can add a HootKit timer to your content using shortcode. The values are the %7$send time%8$s\n"
+"\t\t\t%9$s[HKtimer year=\"%7$s2029%8$s\" month=\"%7$s12%8$s\" day=\"%7$s31%8$s\" hour=\"%7$s23%8$s\" minute=\"%7$s59%8$s\"]%14$s\n"
+"\n"
+"\t\t\t%4$s%3$s\n"
+"\t\t\t%5$sUse HTML tags to style your content.:%6$s\n"
+"\t\t\t%10$s<h5> Heading </h5>%14$s\n"
+"\t\t\t%11$s<b> Bold </b>%14$s\n"
+"\t\t\t%11$s<strong> Bold </strong>%14$s\n"
+"\t\t\t%12$s<em> Emphasize (italic) </em>%14$s\n"
+"\t\t\t%13$s<mark> Marked (highlighted) </mark>%14$s\n"
+"\n"
+"\t\t\t%4$s%3$s\n"
+"\t\t\t%5$sAdd image using img html:%6$s\n"
+"\t\t\t%9$s<img src=\" %7$shttp://website.com/image.png%8$s \">%14$s\n"
+"\t\t\tIf you are adding a large image to Content (to display as a full width image banner), it can be useful to set %15$sContent Box Size%16$s option above to %15$sStretched%16$s\n"
+"\t\t\t%4$s%2$s\n"
+"\t\t\t"
+msgstr ""
+
+#: ../admin/notice.php:48
+#, php-format
+msgid "%1$sIf you have enjoyed using %3$sHootKit%4$s, can you do us a BIG favor and %3$s%5$srate it on WordPress here%6$s%4$s. %2$s%1$sIt helps us spread the word, and really boosts our team motivation.%2$s"
+msgstr ""
+
+#: ../admin/settings.php:68
+msgid "Settings"
+msgstr ""
+
+#: ../admin/settings.php:82
+msgid "HootKit Modules Settings"
+msgstr ""
+
+#: ../admin/settings.php:83
+msgid "HootKit"
+msgstr ""
+
+#: ../admin/settings.php:105
+msgid "Settings Saved"
+msgstr ""
+
+#: ../admin/settings.php:106
+msgid "Some Error Occurred"
+msgstr ""
+
+#: ../admin/settings.php:140
+msgid "HootKit Settings"
+msgstr ""
+
+#: ../admin/settings.php:141
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: ../admin/settings.php:149
+msgid "Enable/Disable hootkit widgets and modules"
+msgstr ""
+
+#: ../admin/settings.php:151
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/settings.php:153
+msgid "Enable All"
+msgstr ""
+
+#: ../admin/settings.php:154
+msgid "Disable All"
+msgstr ""
+
+#: ../admin/settings.php:223
+msgid "Premium Feature"
+msgstr ""
+
+#: ../admin/settings.php:267
+msgid "Invalid request."
+msgstr ""
+
+#: ../admin/settings.php:271
+msgid "Insufficient permissions."
+msgstr ""
+
+#: ../admin/shortcode-timer.php:30
+msgid "&laquo; Timer preview is not available in customize view &raquo;"
+msgstr ""
+
+#: ../admin/shortcode-timer.php:43
+msgid "day"
+msgstr ""
+
+#: ../admin/shortcode-timer.php:44
+msgid "days"
+msgstr ""
+
+#: ../admin/shortcode-timer.php:45
+msgid "Expired"
+msgstr ""
+
+#: ../admin/slider-carousel.php:24
+msgid "Display Images in a Carousel"
+msgstr ""
+
+#: ../admin/slider-carousel.php:31
+#: ../admin/slider-image.php:31
+#: ../admin/slider-postcarousel.php:31
+#: ../admin/slider-postimage.php:35
+#: ../admin/slider-postlistcarousel.php:31
+msgid "Title (optional)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:35
+#: ../admin/slider-carousel.php:101
+#: ../admin/slider-image.php:35
+#: ../admin/slider-postcarousel.php:35
+#: ../admin/slider-postimage.php:39
+#: ../admin/slider-postlistcarousel.php:35
+msgid "Sub Title (optional)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:39
+#: ../admin/slider-postcarousel.php:39
+#: ../admin/slider-postlistcarousel.php:55
+msgid "Carousel Items"
+msgstr ""
+
+#: ../admin/slider-carousel.php:40
+#: ../admin/slider-postcarousel.php:40
+msgid "Number of items visible in carousel."
+msgstr ""
+
+#: ../admin/slider-carousel.php:47
+#: ../admin/slider-postcarousel.php:89
+msgid "Image Size"
+msgstr ""
+
+#: ../admin/slider-carousel.php:51
+#: ../admin/slider-postcarousel.php:93
+msgid "Rectangle (cropped)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:52
+#: ../admin/slider-postcarousel.php:94
+msgid "Vertical (cropped)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:53
+#: ../admin/slider-postcarousel.php:95
+msgid "Full (no cropping)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:57
+#: ../admin/slider-image.php:48
+#: ../admin/slider-postcarousel.php:116
+#: ../admin/slider-postimage.php:122
+#: ../admin/slider-postlistcarousel.php:105
+msgid "Navigation"
+msgstr ""
+
+#: ../admin/slider-carousel.php:61
+#: ../admin/slider-image.php:52
+#: ../admin/slider-postcarousel.php:120
+#: ../admin/slider-postimage.php:126
+msgid "Arrows + Bullets"
+msgstr ""
+
+#: ../admin/slider-carousel.php:62
+#: ../admin/slider-image.php:53
+#: ../admin/slider-postcarousel.php:121
+#: ../admin/slider-postimage.php:127
+msgid "Arrows"
+msgstr ""
+
+#: ../admin/slider-carousel.php:63
+#: ../admin/slider-image.php:54
+#: ../admin/slider-postcarousel.php:122
+#: ../admin/slider-postimage.php:128
+msgid "Bullets"
+msgstr ""
+
+#: ../admin/slider-carousel.php:64
+#: ../admin/slider-image.php:55
+#: ../admin/slider-postcarousel.php:105
+#: ../admin/slider-postcarousel.php:123
+#: ../admin/slider-postimage.php:111
+#: ../admin/slider-postimage.php:129
+#: ../admin/slider-postlistcarousel.php:110
+msgid "None"
+msgstr ""
+
+#: ../admin/slider-carousel.php:68
+#: ../admin/slider-image.php:59
+#: ../admin/slider-postcarousel.php:127
+#: ../admin/slider-postimage.php:133
+#: ../admin/slider-postlistcarousel.php:114
+msgid "Pause Time (1-15)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:69
+#: ../admin/slider-image.php:60
+#: ../admin/slider-postcarousel.php:128
+#: ../admin/slider-postimage.php:134
+#: ../admin/slider-postlistcarousel.php:115
+msgid "Seconds to pause on each slide."
+msgstr ""
+
+#: ../admin/slider-carousel.php:76
+#: ../admin/slider-image.php:67
+#: ../admin/slider-postcarousel.php:135
+#: ../admin/slider-postimage.php:141
+msgid "Maximum Slider Width (Optional)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:77
+#: ../admin/slider-image.php:68
+#: ../admin/slider-postcarousel.php:136
+#: ../admin/slider-postimage.php:142
+msgid "<strong>(in pixels)</strong> By default the slider takes up the entire width available and the height is adjusted accordingly."
+msgstr ""
+
+#: ../admin/slider-carousel.php:83
+msgid "Items"
+msgstr ""
+
+#: ../admin/slider-carousel.php:86
+msgid "Item"
+msgstr ""
+
+#: ../admin/slider-carousel.php:88
+msgid "Only 4 carousel items allowed. Please use a wpHoot theme to add more carousel items."
+msgstr ""
+
+#: ../admin/slider-carousel.php:88
+msgid "Only 4 carousel items available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/slider-carousel.php:93
+msgid "Image"
+msgstr ""
+
+#: ../admin/slider-carousel.php:97
+#: ../admin/slider-image.php:88
+msgid "Title"
+msgstr ""
+
+#: ../admin/slider-carousel.php:105
+#: ../admin/slider-image.php:92
+msgid "Description"
+msgstr ""
+
+#: ../admin/slider-carousel.php:109
+msgid "Link Text (optional)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:111
+#: ../admin/slider-image.php:110
+msgid "Know More"
+msgstr ""
+
+#: ../admin/slider-carousel.php:114
+#: ../admin/slider-image.php:113
+msgid "Link URL (optional)"
+msgstr ""
+
+#: ../admin/slider-carousel.php:121
+#: ../admin/slider-image.php:120
+#: ../admin/slider-postcarousel.php:142
+#: ../admin/slider-postimage.php:148
+#: ../admin/slider-postlistcarousel.php:149
+msgid "Widget Options"
+msgstr ""
+
+#: ../admin/slider-carousel.php:125
+#: ../admin/slider-image.php:124
+#: ../admin/slider-postcarousel.php:146
+#: ../admin/slider-postimage.php:152
+#: ../admin/slider-postlistcarousel.php:153
+msgid "Custom CSS Class"
+msgstr ""
+
+#: ../admin/slider-carousel.php:126
+#: ../admin/slider-image.php:125
+#: ../admin/slider-postcarousel.php:147
+#: ../admin/slider-postimage.php:153
+#: ../admin/slider-postlistcarousel.php:154
+msgid "Give this widget a custom css classname"
+msgstr ""
+
+#: ../admin/slider-carousel.php:130
+#: ../admin/slider-image.php:129
+#: ../admin/slider-postcarousel.php:151
+#: ../admin/slider-postimage.php:157
+#: ../admin/slider-postlistcarousel.php:158
+msgid "Margin Top"
+msgstr ""
+
+#: ../admin/slider-carousel.php:131
+#: ../admin/slider-carousel.php:138
+#: ../admin/slider-image.php:130
+#: ../admin/slider-image.php:137
+#: ../admin/slider-postcarousel.php:152
+#: ../admin/slider-postcarousel.php:159
+#: ../admin/slider-postimage.php:158
+#: ../admin/slider-postimage.php:165
+#: ../admin/slider-postlistcarousel.php:159
+#: ../admin/slider-postlistcarousel.php:166
+msgid "(in pixels) Leave empty to load default margins.<br>Hint: You can use negative numbers also."
+msgstr ""
+
+#: ../admin/slider-carousel.php:137
+#: ../admin/slider-image.php:136
+#: ../admin/slider-postcarousel.php:158
+#: ../admin/slider-postimage.php:164
+#: ../admin/slider-postlistcarousel.php:165
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../admin/slider-image.php:24
+msgid "Display Image Slider"
+msgstr ""
+
+#: ../admin/slider-image.php:39
+#: ../admin/slider-postimage.php:43
+msgid "Slider Style"
+msgstr ""
+
+#: ../admin/slider-image.php:74
+msgid "Slides"
+msgstr ""
+
+#: ../admin/slider-image.php:77
+msgid "Slide"
+msgstr ""
+
+#: ../admin/slider-image.php:79
+msgid "Only 4 slides allowed. Please use a wpHoot theme to add more slides."
+msgstr ""
+
+#: ../admin/slider-image.php:79
+msgid "Only 4 slides available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/slider-image.php:84
+msgid "Slide Image"
+msgstr ""
+
+#: ../admin/slider-image.php:96
+#: ../admin/slider-postimage.php:94
+msgid "Text Styling"
+msgstr ""
+
+#: ../admin/slider-image.php:107
+msgid "Button Text (optional)"
+msgstr ""
+
+#: ../admin/slider-image.php:108
+msgid "Leaving Button Text empty will link the whole image."
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:24
+msgid "Display Posts in a Carousel"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:47
+#: ../admin/slider-postlistcarousel.php:63
+msgid "Number of Posts"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:48
+#: ../admin/slider-postimage.php:53
+#: ../admin/slider-postlistcarousel.php:64
+msgid "<strong>Only 4 posts allowed. Please use a wpHoot theme to add more posts.</strong>"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:48
+#: ../admin/slider-postimage.php:53
+#: ../admin/slider-postlistcarousel.php:64
+msgid "<strong>Only 4 posts available in the Free version of the theme.</strong>"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:52
+#: ../admin/slider-postimage.php:57
+#: ../admin/slider-postlistcarousel.php:68
+msgid "1"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:53
+#: ../admin/slider-postimage.php:58
+#: ../admin/slider-postlistcarousel.php:69
+msgid "2"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:54
+#: ../admin/slider-postimage.php:59
+#: ../admin/slider-postlistcarousel.php:70
+msgid "3"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:55
+#: ../admin/slider-postimage.php:60
+#: ../admin/slider-postlistcarousel.php:71
+msgid "4"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:59
+#: ../admin/slider-postimage.php:64
+#: ../admin/slider-postlistcarousel.php:75
+msgid "Offset"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:60
+#: ../admin/slider-postimage.php:65
+#: ../admin/slider-postlistcarousel.php:76
+msgid "Number of posts to skip from the start. Leave empty to start from the latest post."
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:66
+#: ../admin/slider-postimage.php:71
+#: ../admin/slider-postlistcarousel.php:94
+msgid "'View All Posts' link"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:67
+#: ../admin/slider-postimage.php:72
+#: ../admin/slider-postlistcarousel.php:95
+msgid "Links to your Blog page. If you have a Category selected below, then this will link to the Category Archive page."
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:71
+#: ../admin/slider-postimage.php:76
+#: ../admin/slider-postlistcarousel.php:99
+msgid "Do not display"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:72
+#: ../admin/slider-postimage.php:77
+#: ../admin/slider-postlistcarousel.php:100
+msgid "Show at Top"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:73
+#: ../admin/slider-postimage.php:78
+#: ../admin/slider-postlistcarousel.php:101
+msgid "Show at Bottom"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:77
+#: ../admin/slider-postimage.php:82
+#: ../admin/slider-postlistcarousel.php:82
+msgid "Category (Optional)"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:78
+#: ../admin/slider-postimage.php:83
+#: ../admin/slider-postlistcarousel.php:83
+msgid "Only include posts from these categories. Leave empty to display posts from all categories."
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:83
+#: ../admin/slider-postimage.php:88
+#: ../admin/slider-postlistcarousel.php:88
+msgid "Exclude Category (Optional)"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:84
+#: ../admin/slider-postimage.php:89
+#: ../admin/slider-postlistcarousel.php:89
+msgid "Exclude posts from these categories."
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:103
+#: ../admin/slider-postimage.php:109
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:109
+#: ../admin/slider-postimage.php:115
+msgid "Custom Excerpt Length"
+msgstr ""
+
+#: ../admin/slider-postcarousel.php:110
+#: ../admin/slider-postimage.php:116
+msgid "Select <strong>'Display Excerpt'</strong> in option above. Leave empty for default excerpt length."
+msgstr ""
+
+#: ../admin/slider-postimage.php:24
+msgid "Display Posts Slider"
+msgstr ""
+
+#: ../admin/slider-postimage.php:32
+msgid "<strong>Only posts which have a 'Featured Image' will be displayed</strong>"
+msgstr ""
+
+#: ../admin/slider-postimage.php:52
+msgid "Number of Posts to show"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:24
+msgid "Display Posts List in a vertical Carousel"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:39
+msgid "Carousel Style"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:48
+msgid "Custom Image Height"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:49
+msgid "Default: 80 for Style1 / 215 for Style2"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:56
+msgid "Number of items visible in carousel. Default: 3"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:109
+msgid "Display Arrows"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:122
+msgid "Individual Posts:"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:127
+msgid "Show Author"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:132
+msgid "Show Post Date"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:137
+msgid "Show number of comments"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:141
+msgid "Show Categories"
+msgstr ""
+
+#: ../admin/slider-postlistcarousel.php:145
+msgid "Show Tags"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:24
+msgid "Display Product in a Carousel"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:47
+#: ../admin/slider-productlistcarousel.php:63
+msgid "Number of Products"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:48
+msgid "<strong>Only 4 Products allowed. Please use a wpHoot theme to add more Products.</strong>"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:48
+msgid "<strong>Only 4 Products available in the Free version of the theme.</strong>"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:60
+#: ../admin/widget-content-products-blocks.php:95
+msgid "Number of products to skip from the start. Leave empty to start from the latest products."
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:66
+#: ../admin/slider-productlistcarousel.php:94
+#: ../admin/widget-content-products-blocks.php:52
+msgid "'View All Products' link"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:67
+#: ../admin/slider-productlistcarousel.php:95
+msgid "Links to your Shop page. If you have a Category selected below, then this will link to the Products Category page."
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:78
+#: ../admin/slider-productlistcarousel.php:83
+#: ../admin/widget-content-products-blocks.php:64
+msgid "Only include products from these categories. Leave empty to display products from all categories."
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:84
+#: ../admin/slider-productlistcarousel.php:89
+#: ../admin/widget-content-products-blocks.php:70
+msgid "Exclude products from these categories."
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:99
+#: ../admin/slider-productlistcarousel.php:127
+#: ../admin/widget-content-products-blocks.php:101
+msgid "Show Star Rating"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:104
+#: ../admin/slider-productlistcarousel.php:132
+#: ../admin/widget-content-products-blocks.php:105
+msgid "Show Price"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:109
+#: ../admin/slider-productlistcarousel.php:137
+#: ../admin/widget-content-products-blocks.php:110
+msgid "Show 'Add to Cart'"
+msgstr ""
+
+#: ../admin/slider-productcarousel.php:126
+#: ../admin/widget-content-products-blocks.php:127
+msgid "Display Short Description"
+msgstr ""
+
+#: ../admin/slider-productlistcarousel.php:24
+msgid "Display Products List in a vertical Carousel"
+msgstr ""
+
+#: ../admin/slider-productlistcarousel.php:64
+msgid "<strong>Only 4 products allowed. Please use a wpHoot theme to add more products.</strong>"
+msgstr ""
+
+#: ../admin/slider-productlistcarousel.php:64
+msgid "<strong>Only 4 products available in the Free version of the theme.</strong>"
+msgstr ""
+
+#: ../admin/slider-productlistcarousel.php:76
+msgid "Number of products to skip from the start. Leave empty to start from the latest product."
+msgstr ""
+
+#: ../admin/widget-announce.php:24
+msgid "Display Announcement Message"
+msgstr ""
+
+#: ../admin/widget-announce.php:31
+#: ../admin/widget-content-blocks.php:107
+#: ../admin/widget-icon-list.php:39
+#: ../admin/widget-icon.php:31
+#: ../admin/widget-notice.php:58
+msgid "Icon"
+msgstr ""
+
+#: ../admin/widget-announce.php:35
+#: ../admin/widget-cta.php:31
+msgid "Headline"
+msgstr ""
+
+#: ../admin/widget-announce.php:39
+msgid "Message"
+msgstr ""
+
+#: ../admin/widget-announce.php:43
+#: ../admin/widget-icon.php:35
+msgid "Icon Size (Optional)"
+msgstr ""
+
+#: ../admin/widget-announce.php:44
+#: ../admin/widget-announce.php:57
+#: ../admin/widget-icon.php:36
+msgid "(in pixels) Leave empty for default"
+msgstr ""
+
+#: ../admin/widget-announce.php:50
+msgid "Icon Color (Optional)"
+msgstr ""
+
+#: ../admin/widget-announce.php:51
+msgid "Leave empty to use font color."
+msgstr ""
+
+#: ../admin/widget-announce.php:56
+msgid "Headline Size (Optional)"
+msgstr ""
+
+#: ../admin/widget-announce.php:63
+msgid "Background (Optional)"
+msgstr ""
+
+#: ../admin/widget-announce.php:64
+#: ../admin/widget-icon.php:49
+msgid "Leave empty for no background."
+msgstr ""
+
+#: ../admin/widget-announce.php:69
+msgid "Text Color (Optional)"
+msgstr ""
+
+#: ../admin/widget-announce.php:70
+#: ../admin/widget-icon.php:43
+msgid "Leave empty to use default color."
+msgstr ""
+
+#: ../admin/widget-announce.php:75
+#: ../admin/widget-icon.php:54
+msgid "Link URL (Optional)"
+msgstr ""
+
+#: ../admin/widget-buttons.php:24
+msgid "Display Buttons"
+msgstr ""
+
+#: ../admin/widget-buttons.php:31
+#: ../admin/widget-cta.php:74
+msgid "Alignment"
+msgstr ""
+
+#: ../admin/widget-buttons.php:35
+#: ../admin/widget-cta.php:78
+msgid "Left"
+msgstr ""
+
+#: ../admin/widget-buttons.php:36
+#: ../admin/widget-cta.php:79
+msgid "Center"
+msgstr ""
+
+#: ../admin/widget-buttons.php:37
+#: ../admin/widget-cta.php:80
+msgid "Right"
+msgstr ""
+
+#: ../admin/widget-buttons.php:41
+msgid "Button Size"
+msgstr ""
+
+#: ../admin/widget-buttons.php:45
+#: ../admin/widget-cta.php:43
+#: ../admin/widget-icon-list.php:47
+#: ../admin/widget-notice.php:67
+#: ../admin/widget-number-blocks.php:73
+msgid "Small"
+msgstr ""
+
+#: ../admin/widget-buttons.php:46
+#: ../admin/widget-icon-list.php:48
+#: ../admin/widget-notice.php:68
+#: ../admin/widget-number-blocks.php:74
+#: ../admin/widget-number-blocks.php:85
+msgid "Medium"
+msgstr ""
+
+#: ../admin/widget-buttons.php:47
+#: ../admin/widget-icon-list.php:49
+#: ../admin/widget-notice.php:69
+#: ../admin/widget-number-blocks.php:75
+msgid "Large"
+msgstr ""
+
+#: ../admin/widget-buttons.php:51
+msgid "Open Links In New Window"
+msgstr ""
+
+#: ../admin/widget-buttons.php:55
+msgid "Buttons"
+msgstr ""
+
+#: ../admin/widget-buttons.php:58
+#: ../admin/widget-cta.php:58
+msgid "Button"
+msgstr ""
+
+#: ../admin/widget-buttons.php:60
+msgid "Only 4 buttons allowed. Please use a wpHoot theme to add more buttons."
+msgstr ""
+
+#: ../admin/widget-buttons.php:60
+msgid "Only 4 buttons available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/widget-buttons.php:65
+msgid "Button Text (required)"
+msgstr ""
+
+#: ../admin/widget-buttons.php:67
+msgid "Click Here"
+msgstr ""
+
+#: ../admin/widget-buttons.php:70
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/widget-buttons.php:75
+#: ../admin/widget-notice.php:43
+msgid "Preset"
+msgstr ""
+
+#: ../admin/widget-buttons.php:81
+#: ../admin/widget-notice.php:80
+msgid "Text Color (optional)"
+msgstr ""
+
+#: ../admin/widget-buttons.php:82
+#: ../admin/widget-buttons.php:88
+#: ../admin/widget-notice.php:75
+#: ../admin/widget-notice.php:81
+#: ../admin/widget-notice.php:87
+msgid "Leave empty to use above preset colors."
+msgstr ""
+
+#: ../admin/widget-buttons.php:87
+#: ../admin/widget-icon.php:48
+#: ../admin/widget-notice.php:86
+msgid "Background (optional)"
+msgstr ""
+
+#: ../admin/widget-buttons.php:95
+msgid "Content before Buttons (optional)"
+msgstr ""
+
+#: ../admin/widget-buttons.php:99
+#: ../admin/widget-content-blocks.php:64
+#: ../admin/widget-content-posts-blocks.php:138
+#: ../admin/widget-content-products-blocks.php:141
+#: ../admin/widget-cta.php:103
+#: ../admin/widget-number-blocks.php:51
+msgid "Border"
+msgstr ""
+
+#: ../admin/widget-buttons.php:100
+#: ../admin/widget-content-blocks.php:65
+#: ../admin/widget-content-posts-blocks.php:139
+#: ../admin/widget-content-products-blocks.php:142
+#: ../admin/widget-cta.php:104
+#: ../admin/widget-number-blocks.php:52
+msgid "Top and bottom borders."
+msgstr ""
+
+#: ../admin/widget-buttons.php:104
+#: ../admin/widget-content-blocks.php:69
+#: ../admin/widget-content-posts-blocks.php:143
+#: ../admin/widget-content-products-blocks.php:146
+#: ../admin/widget-cta.php:108
+#: ../admin/widget-number-blocks.php:56
+msgid "Top - Line || Bottom - Line"
+msgstr ""
+
+#: ../admin/widget-buttons.php:105
+#: ../admin/widget-content-blocks.php:70
+#: ../admin/widget-content-posts-blocks.php:144
+#: ../admin/widget-content-products-blocks.php:147
+#: ../admin/widget-cta.php:109
+#: ../admin/widget-number-blocks.php:57
+msgid "Top - Line || Bottom - DoubleLine"
+msgstr ""
+
+#: ../admin/widget-buttons.php:106
+#: ../admin/widget-content-blocks.php:71
+#: ../admin/widget-content-posts-blocks.php:145
+#: ../admin/widget-content-products-blocks.php:148
+#: ../admin/widget-cta.php:110
+#: ../admin/widget-number-blocks.php:58
+msgid "Top - Line || Bottom - None"
+msgstr ""
+
+#: ../admin/widget-buttons.php:107
+#: ../admin/widget-content-blocks.php:72
+#: ../admin/widget-content-posts-blocks.php:146
+#: ../admin/widget-content-products-blocks.php:149
+#: ../admin/widget-cta.php:111
+#: ../admin/widget-number-blocks.php:59
+msgid "Top - DoubleLine || Bottom - Line"
+msgstr ""
+
+#: ../admin/widget-buttons.php:108
+#: ../admin/widget-content-blocks.php:73
+#: ../admin/widget-content-posts-blocks.php:147
+#: ../admin/widget-content-products-blocks.php:150
+#: ../admin/widget-cta.php:112
+#: ../admin/widget-number-blocks.php:60
+msgid "Top - DoubleLine || Bottom - DoubleLine"
+msgstr ""
+
+#: ../admin/widget-buttons.php:109
+#: ../admin/widget-content-blocks.php:74
+#: ../admin/widget-content-posts-blocks.php:148
+#: ../admin/widget-content-products-blocks.php:151
+#: ../admin/widget-cta.php:113
+#: ../admin/widget-number-blocks.php:61
+msgid "Top - DoubleLine || Bottom - None"
+msgstr ""
+
+#: ../admin/widget-buttons.php:110
+#: ../admin/widget-content-blocks.php:75
+#: ../admin/widget-content-posts-blocks.php:149
+#: ../admin/widget-content-products-blocks.php:152
+#: ../admin/widget-cta.php:114
+#: ../admin/widget-number-blocks.php:62
+msgid "Top - None || Bottom - Line"
+msgstr ""
+
+#: ../admin/widget-buttons.php:111
+#: ../admin/widget-content-blocks.php:76
+#: ../admin/widget-content-posts-blocks.php:150
+#: ../admin/widget-content-products-blocks.php:153
+#: ../admin/widget-cta.php:115
+#: ../admin/widget-number-blocks.php:63
+msgid "Top - None || Bottom - DoubleLine"
+msgstr ""
+
+#: ../admin/widget-buttons.php:112
+#: ../admin/widget-content-blocks.php:77
+#: ../admin/widget-content-posts-blocks.php:151
+#: ../admin/widget-content-products-blocks.php:154
+#: ../admin/widget-cta.php:116
+#: ../admin/widget-number-blocks.php:64
+msgid "Top - None || Bottom - None"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:24
+msgid "Display Contact Information"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:39
+msgid "Address"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:44
+msgid "Phone"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:48
+msgid "Email"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:53
+msgid "Profiles"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:56
+msgid "Contact Link"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:58
+msgid "Only 4 profiles allowed. Please use a wpHoot theme to add more profiles."
+msgstr ""
+
+#: ../admin/widget-contact-info.php:58
+msgid "Only 4 profiles available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/widget-contact-info.php:63
+msgid "Profile"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:68
+msgid "Display Text (Optional)"
+msgstr ""
+
+#: ../admin/widget-contact-info.php:72
+msgid "URL (enter email address if you selected 'Email' in Profile above)"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:24
+msgid "Display Styled Content Blocks"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:39
+#: ../admin/widget-content-posts-blocks.php:39
+#: ../admin/widget-content-products-blocks.php:39
+msgid "Blocks Style"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:52
+#: ../admin/widget-content-grid.php:39
+#: ../admin/widget-content-posts-blocks.php:75
+#: ../admin/widget-content-products-blocks.php:75
+#: ../admin/widget-number-blocks.php:39
+#: ../admin/widget-post-grid.php:43
+msgid "Number Of Columns"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:60
+#: ../admin/widget-content-grid.php:48
+#: ../admin/widget-content-grid.php:129
+#: ../admin/widget-content-grid.php:202
+#: ../admin/widget-content-posts-blocks.php:83
+#: ../admin/widget-content-products-blocks.php:83
+#: ../admin/widget-cover-image.php:113
+#: ../admin/widget-cover-image.php:236
+#: ../admin/widget-number-blocks.php:47
+#: ../admin/widget-post-grid.php:52
+#: ../admin/widget-post-grid.php:65
+#: ../admin/widget-post-grid.php:190
+msgid "5"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:81
+msgid "Content Boxes"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:103
+msgid "Remove any icon below to use image"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:108
+msgid "Use an icon instead of image"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:112
+msgid "Icon Style"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:117
+msgid "Circle"
+msgstr ""
+
+#: ../admin/widget-content-blocks.php:118
+msgid "Square"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:24
+msgid "Display Content in a Grid"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:31
+#: ../admin/widget-cover-image.php:31
+#: ../admin/widget-post-grid.php:35
+msgid "Title (Optional)"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:40
+#: ../admin/widget-post-grid.php:44
+msgid "First grid takes up 2 columns by default. <br/> (You can change it to standard 1x1 size in 'First Grid' options below)"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:52
+msgid "Grid Unit (Image) Size"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:53
+#: ../admin/widget-post-grid.php:113
+msgid "Default: 215 (in pixels)"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:59
+msgid "Grid Boxes"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:62
+msgid "Grid Box"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:82
+#: ../admin/widget-cover-image.php:66
+#: ../admin/widget-cover-image.php:189
+#, php-format
+msgid "Use &lt;big&gt; tag for big font size. Example:%3$s%1$s&lt;big&gt;Huge Words&lt;/big&gt;%2$s"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:102
+#: ../admin/widget-cover-image.php:86
+#: ../admin/widget-cover-image.php:209
+msgid "Text Alignment"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:106
+#: ../admin/widget-cover-image.php:90
+#: ../admin/widget-cover-image.php:213
+msgid "Top Left"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:107
+#: ../admin/widget-cover-image.php:91
+#: ../admin/widget-cover-image.php:214
+msgid "Top Center"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:108
+#: ../admin/widget-cover-image.php:92
+#: ../admin/widget-cover-image.php:215
+msgid "Top Right"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:109
+#: ../admin/widget-cover-image.php:93
+#: ../admin/widget-cover-image.php:216
+msgid "Middle Left"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:110
+#: ../admin/widget-cover-image.php:94
+#: ../admin/widget-cover-image.php:217
+msgid "Middle Center"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:111
+#: ../admin/widget-cover-image.php:95
+#: ../admin/widget-cover-image.php:218
+msgid "Middle Right"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:112
+#: ../admin/widget-cover-image.php:96
+#: ../admin/widget-cover-image.php:219
+msgid "Bottom Left"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:113
+#: ../admin/widget-cover-image.php:97
+#: ../admin/widget-cover-image.php:220
+msgid "Bottom Center"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:114
+#: ../admin/widget-cover-image.php:98
+#: ../admin/widget-cover-image.php:221
+msgid "Bottom Right"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:118
+#: ../admin/widget-cover-image.php:102
+#: ../admin/widget-cover-image.php:225
+msgid "Text Distance from Edges"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:122
+#: ../admin/widget-cover-image.php:106
+#: ../admin/widget-cover-image.php:229
+msgid "(percentage distance from the edge)"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:124
+#: ../admin/widget-cover-image.php:108
+#: ../admin/widget-cover-image.php:231
+msgid "0"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:130
+#: ../admin/widget-content-grid.php:203
+#: ../admin/widget-cover-image.php:114
+#: ../admin/widget-cover-image.php:237
+#: ../admin/widget-post-grid.php:66
+#: ../admin/widget-post-grid.php:191
+msgid "6"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:131
+#: ../admin/widget-content-grid.php:204
+#: ../admin/widget-cover-image.php:115
+#: ../admin/widget-cover-image.php:238
+#: ../admin/widget-post-grid.php:67
+#: ../admin/widget-post-grid.php:192
+msgid "7"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:132
+#: ../admin/widget-content-grid.php:205
+#: ../admin/widget-cover-image.php:116
+#: ../admin/widget-cover-image.php:239
+#: ../admin/widget-post-grid.php:68
+#: ../admin/widget-post-grid.php:193
+msgid "8"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:133
+#: ../admin/widget-content-grid.php:206
+#: ../admin/widget-cover-image.php:117
+#: ../admin/widget-cover-image.php:240
+#: ../admin/widget-post-grid.php:69
+#: ../admin/widget-post-grid.php:194
+msgid "9"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:134
+#: ../admin/widget-content-grid.php:207
+#: ../admin/widget-cover-image.php:118
+#: ../admin/widget-cover-image.php:241
+#: ../admin/widget-post-grid.php:70
+#: ../admin/widget-post-grid.php:195
+msgid "10"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:135
+#: ../admin/widget-cover-image.php:119
+#: ../admin/widget-cover-image.php:242
+#: ../admin/widget-post-grid.php:71
+msgid "11"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:136
+#: ../admin/widget-cover-image.php:120
+#: ../admin/widget-cover-image.php:243
+#: ../admin/widget-post-grid.php:72
+msgid "12"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:137
+#: ../admin/widget-cover-image.php:121
+#: ../admin/widget-cover-image.php:244
+#: ../admin/widget-post-grid.php:73
+msgid "13"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:138
+#: ../admin/widget-cover-image.php:122
+#: ../admin/widget-cover-image.php:245
+#: ../admin/widget-post-grid.php:74
+msgid "14"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:139
+#: ../admin/widget-cover-image.php:123
+#: ../admin/widget-cover-image.php:246
+#: ../admin/widget-post-grid.php:75
+msgid "15"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:143
+#: ../admin/widget-content-grid.php:162
+#: ../admin/widget-cover-image.php:127
+#: ../admin/widget-cover-image.php:146
+#: ../admin/widget-cover-image.php:250
+#: ../admin/widget-cover-image.php:269
+#, php-format
+msgid "Button %1$s Text"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:148
+#: ../admin/widget-content-grid.php:167
+#: ../admin/widget-cover-image.php:132
+#: ../admin/widget-cover-image.php:151
+#: ../admin/widget-cover-image.php:255
+#: ../admin/widget-cover-image.php:274
+#, php-format
+msgid "Button %1$s URL"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:154
+#: ../admin/widget-content-grid.php:173
+#: ../admin/widget-cover-image.php:138
+#: ../admin/widget-cover-image.php:157
+#: ../admin/widget-cover-image.php:261
+#: ../admin/widget-cover-image.php:280
+#, php-format
+msgid "Button %1$s Color"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:158
+#: ../admin/widget-content-grid.php:177
+#: ../admin/widget-cover-image.php:142
+#: ../admin/widget-cover-image.php:161
+#: ../admin/widget-cover-image.php:265
+#: ../admin/widget-cover-image.php:284
+#, php-format
+msgid "Button %1$s Text Color"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:183
+#: ../admin/widget-post-grid.php:149
+msgid "First Grid"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:188
+#: ../admin/widget-post-grid.php:154
+msgid "Display as Standard 1x1 Size"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:189
+#: ../admin/widget-post-grid.php:155
+msgid "By default, first grid is double in size and takes up space of 2 Columns x 2 Rows"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:193
+msgid "Number of Boxes"
+msgstr ""
+
+#: ../admin/widget-content-grid.php:194
+msgid "Selecting more than 1 box will <strong>convert the first grid into a SLIDER</strong>"
+msgstr ""
+
+#: ../admin/widget-content-posts-blocks.php:24
+msgid "Display Styled Content Blocks (Posts)"
+msgstr ""
+
+#: ../admin/widget-content-posts-blocks.php:88
+#: ../admin/widget-content-products-blocks.php:88
+msgid "Default: 4"
+msgstr ""
+
+#: ../admin/widget-content-posts-blocks.php:126
+#: ../admin/widget-content-products-blocks.php:129
+msgid "Display Full Content"
+msgstr ""
+
+#: ../admin/widget-content-products-blocks.php:24
+msgid "Display Styled Content Blocks (Products)"
+msgstr ""
+
+#: ../admin/widget-content-products-blocks.php:53
+msgid "Links to your Shop page. If you have a Category selected below, then this will link to the Product Category page."
+msgstr ""
+
+#: ../admin/widget-content-products-blocks.php:87
+msgid "Number of Products to show"
+msgstr ""
+
+#: ../admin/widget-cover-image.php:24
+msgid "Display Image with Text overlay"
+msgstr ""
+
+#: ../admin/widget-cover-image.php:39
+msgid "Image Height"
+msgstr ""
+
+#: ../admin/widget-cover-image.php:40
+msgid "Leave empty to display full sized non-cropped image"
+msgstr ""
+
+#: ../admin/widget-cover-image.php:47
+msgid "OVERLAY TEXT:"
+msgstr ""
+
+#: ../admin/widget-cover-image.php:165
+msgid "Multiple Cover Images Slider"
+msgstr ""
+
+#: ../admin/widget-cover-image.php:167
+msgid "Adding more than 1 cover image to turn it into a slider"
+msgstr ""
+
+#: ../admin/widget-cover-image.php:169
+msgid "Cover Image"
+msgstr ""
+
+#: ../admin/widget-cta.php:24
+msgid "Display Call To Action block"
+msgstr ""
+
+#: ../admin/widget-cta.php:35
+msgid "Sub Heading (optional)"
+msgstr ""
+
+#: ../admin/widget-cta.php:39
+msgid "Title Size"
+msgstr ""
+
+#: ../admin/widget-cta.php:44
+msgid "Default (H3 Heading)"
+msgstr ""
+
+#: ../admin/widget-cta.php:45
+msgid "Big"
+msgstr ""
+
+#: ../admin/widget-cta.php:46
+#: ../admin/widget-icon-list.php:50
+#: ../admin/widget-notice.php:70
+#: ../admin/widget-number-blocks.php:76
+msgid "Huge"
+msgstr ""
+
+#: ../admin/widget-cta.php:54
+msgid "Link Type"
+msgstr ""
+
+#: ../admin/widget-cta.php:59
+#: ../admin/widget-icon-list.php:70
+#: ../admin/widget-number-blocks.php:133
+msgid "Text"
+msgstr ""
+
+#: ../admin/widget-cta.php:63
+msgid "Link Text"
+msgstr ""
+
+#: ../admin/widget-cta.php:65
+msgid "KNOW MORE"
+msgstr ""
+
+#: ../admin/widget-cta.php:68
+msgid "Link URL"
+msgstr ""
+
+#: ../admin/widget-cta.php:69
+msgid "Leave empty if you dont want to show link"
+msgstr ""
+
+#: ../admin/widget-cta.php:84
+msgid "Box Style"
+msgstr ""
+
+#: ../admin/widget-cta.php:93
+msgid "Content Styling"
+msgstr ""
+
+#: ../admin/widget-cta.php:97
+msgid "Default (no background)"
+msgstr ""
+
+#: ../admin/widget-icon-list.php:24
+msgid "Display Icon List"
+msgstr ""
+
+#: ../admin/widget-icon-list.php:43
+#: ../admin/widget-notice.php:63
+msgid "Icon Size"
+msgstr ""
+
+#: ../admin/widget-icon-list.php:54
+#: ../admin/widget-icon.php:42
+#: ../admin/widget-notice.php:74
+msgid "Icon Color (optional)"
+msgstr ""
+
+#: ../admin/widget-icon-list.php:55
+msgid "Leave empty to use default text color."
+msgstr ""
+
+#: ../admin/widget-icon-list.php:60
+msgid "List"
+msgstr ""
+
+#: ../admin/widget-icon-list.php:63
+msgid "List Item"
+msgstr ""
+
+#: ../admin/widget-icon-list.php:65
+msgid "Only 4 items allowed. Please use a wpHoot theme to add more items."
+msgstr ""
+
+#: ../admin/widget-icon-list.php:65
+msgid "Only 4 items available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/widget-icon.php:24
+msgid "Display Icon"
+msgstr ""
+
+#: ../admin/widget-notice.php:24
+msgid "Display Notice Box"
+msgstr ""
+
+#: ../admin/widget-notice.php:47
+msgid "Notice (Success)"
+msgstr ""
+
+#: ../admin/widget-notice.php:48
+msgid "Notice (Warning)"
+msgstr ""
+
+#: ../admin/widget-notice.php:49
+msgid "Notice (Error)"
+msgstr ""
+
+#: ../admin/widget-notice.php:50
+msgid "Notice (Info)"
+msgstr ""
+
+#: ../admin/widget-notice.php:51
+msgid "Notice (Note)"
+msgstr ""
+
+#: ../admin/widget-notice.php:52
+msgid "Notice (Flag)"
+msgstr ""
+
+#: ../admin/widget-notice.php:53
+msgid "Notice (Pushpin)"
+msgstr ""
+
+#: ../admin/widget-notice.php:54
+msgid "Notice (Setting)"
+msgstr ""
+
+#: ../admin/widget-notice.php:59
+msgid "Leave empty to use above preset icon."
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:24
+msgid "Display Styled Number Blocks"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:68
+msgid "Circle Size"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:72
+msgid "Tiny"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:80
+msgid "Circle Width"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:84
+msgid "Thin"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:86
+msgid "Heavy"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:90
+msgid "Number Boxes"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:93
+msgid "Number Box"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:95
+msgid "Only 4 boxes allowed. Please use a wpHoot theme to add more boxes."
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:95
+msgid "Only 4 boxes available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:100
+msgid "Circle percentage (Required)"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:101
+msgid "A number between 0-100 used to calculate the circle length around the number. Note: You can use a shortcode in this field as well - the shortcode should result in a number."
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:108
+msgid "Display Number (Optional)"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:109
+#, php-format
+msgid "Leave empty to use above percentage (a % sign will be automatically added). Note: You can use a shortcode in this field as well - the shortcode should result in a number."
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:116
+msgid "Prefix"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:117
+#: ../admin/widget-number-blocks.php:123
+msgid "This will only work if you have a 'Display Number' above"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:122
+msgid "Suffix"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:128
+msgid "Color"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:137
+msgid "Use &lt;h4&gt; tag for headlines. Example"
+msgstr ""
+
+#: ../admin/widget-number-blocks.php:138
+msgid "&lt;h4&gt;Skill/Feature Title&lt;/h4&gt;<br>Some description about this feature..<br>&lt;a href=\"http://example.com\"&gt;Link Text&lt;/a&gt;"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:24
+msgid "Display Posts in a Grid"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:56
+msgid "Number of Rows"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:57
+msgid "First grid takes up 2 rows by default. <br/> (You can change it to standard 1x1 size in 'First Grid' options below)"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:76
+msgid "16"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:77
+msgid "17"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:78
+msgid "18"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:79
+msgid "19"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:80
+msgid "20"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:81
+msgid "21"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:82
+msgid "22"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:83
+msgid "23"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:84
+msgid "24"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:85
+msgid "25"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:90
+msgid "Only include posts from these categories. Leave empty to display posts from ALL categories."
+msgstr ""
+
+#: ../admin/widget-post-grid.php:112
+msgid "Grid Unit (Post Image) Size"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:119
+msgid "Display Post Titles"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:182
+msgid "Selecting more than 1 post will <strong>convert the first grid into a SLIDER</strong>"
+msgstr ""
+
+#: ../admin/widget-post-grid.php:200
+msgid "Leave empty to let this post follow the post order of the remaining widget. Adding categories here will exclude those categories from the remaining widget grids."
+msgstr ""
+
+#: ../admin/widget-post-list.php:24
+msgid "Display Posts List (all or specific category)"
+msgstr ""
+
+#: ../admin/widget-post-list.php:39
+#: ../admin/widget-product-list.php:39
+msgid "List Style"
+msgstr ""
+
+#: ../admin/widget-post-list.php:83
+msgid "Number of Posts - 1st Column"
+msgstr ""
+
+#: ../admin/widget-post-list.php:84
+#: ../admin/widget-product-list.php:84
+msgid "Default: 3"
+msgstr ""
+
+#: ../admin/widget-post-list.php:90
+msgid "Number of Posts - 2nd Column"
+msgstr ""
+
+#: ../admin/widget-post-list.php:91
+#: ../admin/widget-product-list.php:91
+msgid "Default: 3<br>(if selected 2 or 3 columns above)"
+msgstr ""
+
+#: ../admin/widget-post-list.php:97
+msgid "Number of Posts - 3rd Column"
+msgstr ""
+
+#: ../admin/widget-post-list.php:98
+#: ../admin/widget-product-list.php:98
+msgid "Default: 3<br>(if selected 3 columns above)"
+msgstr ""
+
+#: ../admin/widget-post-list.php:155
+msgid "First Post"
+msgstr ""
+
+#: ../admin/widget-post-list.php:160
+#: ../admin/widget-product-list.php:161
+msgid "Thumbnail Size"
+msgstr ""
+
+#: ../admin/widget-post-list.php:164
+msgid "Thumbnail (like other posts)"
+msgstr ""
+
+#: ../admin/widget-post-list.php:165
+#: ../admin/widget-product-list.php:166
+msgid "Rectangular Small"
+msgstr ""
+
+#: ../admin/widget-post-list.php:166
+#: ../admin/widget-product-list.php:167
+msgid "Rectangular Medium"
+msgstr ""
+
+#: ../admin/widget-post-list.php:167
+#: ../admin/widget-product-list.php:168
+msgid "Rectangular Big"
+msgstr ""
+
+#: ../admin/widget-post-list.php:168
+#: ../admin/widget-product-list.php:169
+msgid "Full (Non Cropped)"
+msgstr ""
+
+#: ../admin/widget-product-list.php:24
+msgid "Display Products List (all or specific category)"
+msgstr ""
+
+#: ../admin/widget-product-list.php:83
+msgid "Number of Products - 1st Column"
+msgstr ""
+
+#: ../admin/widget-product-list.php:90
+msgid "Number of Products - 2nd Column"
+msgstr ""
+
+#: ../admin/widget-product-list.php:97
+msgid "Number of Products - 3rd Column"
+msgstr ""
+
+#: ../admin/widget-product-list.php:111
+msgid "Individual Products:"
+msgstr ""
+
+#: ../admin/widget-product-list.php:156
+msgid "First Product"
+msgstr ""
+
+#: ../admin/widget-product-list.php:165
+msgid "Thumbnail (like other products)"
+msgstr ""
+
+#: ../admin/widget-products-carticon.php:24
+msgid "Display Woocommerce Cart Icon"
+msgstr ""
+
+#: ../admin/widget-products-carticon.php:33
+#: ../admin/widget-products-ticker.php:33
+msgid "Products"
+msgstr ""
+
+#: ../admin/widget-products-carticon.php:36
+msgid "Cart Icon"
+msgstr ""
+
+#: ../admin/widget-products-carticon.php:45
+msgid "Show Number Of Items"
+msgstr ""
+
+#: ../admin/widget-products-carticon.php:50
+msgid "Show Total Cart Value"
+msgstr ""
+
+#: ../admin/widget-products-carticon.php:61
+#: ../admin/widget-products-ticker.php:96
+#: ../admin/widget-ticker-posts.php:86
+#: ../admin/widget-ticker.php:81
+msgid "Font Color (optional)"
+msgstr ""
+
+#: ../admin/widget-products-carticon.php:62
+#: ../admin/widget-products-ticker.php:97
+#: ../admin/widget-ticker-posts.php:87
+#: ../admin/widget-ticker.php:82
+msgid "Leave empty to use default font colors."
+msgstr ""
+
+#: ../admin/widget-products-search.php:24
+msgid "Woocommerce Products Search"
+msgstr ""
+
+#: ../admin/widget-products-search.php:35
+msgid "Placeholder Text"
+msgstr ""
+
+#: ../admin/widget-products-search.php:37
+msgid "Search Products"
+msgstr ""
+
+#: ../admin/widget-products-search.php:40
+msgid "Display Category Selector"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:24
+msgid "Animated horizontal scrolling Woocommerce Products"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:36
+msgid "Products Category (Optional)"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:42
+msgid "Exclude Products Category (Optional)"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:49
+#: ../admin/widget-ticker-posts.php:49
+msgid "Default: 10"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:65
+#: ../admin/widget-ticker-posts.php:55
+#: ../admin/widget-ticker.php:50
+msgid "Ticker Speed"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:69
+#: ../admin/widget-ticker-posts.php:59
+#: ../admin/widget-ticker.php:54
+msgid "1 (Slowest)"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:78
+#: ../admin/widget-ticker-posts.php:68
+#: ../admin/widget-ticker.php:63
+msgid "10 (Fastest)"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:82
+#: ../admin/widget-ticker-posts.php:72
+#: ../admin/widget-ticker.php:67
+msgid "Maximum Ticker Width (Optional)"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:83
+#: ../admin/widget-ticker-posts.php:73
+#: ../admin/widget-ticker.php:68
+msgid "(in pixels) Leave empty for full width"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:102
+#: ../admin/widget-ticker-posts.php:92
+msgid "Thumbnail height"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:103
+msgid "Default: 75 (recommended for multi line style below).<br />Set this to 30 for single line style below"
+msgstr ""
+
+#: ../admin/widget-products-ticker.php:110
+msgid "Single / Multi Line"
+msgstr ""
+
+#: ../admin/widget-profile.php:24
+msgid "Display Profile (about) block"
+msgstr ""
+
+#: ../admin/widget-profile.php:43
+msgid "Image Style"
+msgstr ""
+
+#: ../admin/widget-profile.php:47
+msgid "Thumbnail (circle)"
+msgstr ""
+
+#: ../admin/widget-profile.php:48
+msgid "Thumbnail (square)"
+msgstr ""
+
+#: ../admin/widget-profile.php:49
+msgid "Full Size"
+msgstr ""
+
+#: ../admin/widget-profile.php:77
+#: ../admin/widget-vcards.php:90
+msgid "Social Icon 1"
+msgstr ""
+
+#: ../admin/widget-profile.php:82
+#: ../admin/widget-vcards.php:95
+msgid "URL 1"
+msgstr ""
+
+#: ../admin/widget-profile.php:87
+#: ../admin/widget-vcards.php:100
+msgid "Social Icon 2"
+msgstr ""
+
+#: ../admin/widget-profile.php:92
+#: ../admin/widget-vcards.php:105
+msgid "URL 2"
+msgstr ""
+
+#: ../admin/widget-profile.php:97
+#: ../admin/widget-vcards.php:110
+msgid "Social Icon 3"
+msgstr ""
+
+#: ../admin/widget-profile.php:102
+#: ../admin/widget-vcards.php:115
+msgid "URL 3"
+msgstr ""
+
+#: ../admin/widget-profile.php:107
+#: ../admin/widget-vcards.php:120
+msgid "Social Icon 4"
+msgstr ""
+
+#: ../admin/widget-profile.php:112
+#: ../admin/widget-vcards.php:125
+msgid "URL 4"
+msgstr ""
+
+#: ../admin/widget-profile.php:117
+#: ../admin/widget-vcards.php:130
+msgid "Social Icon 5"
+msgstr ""
+
+#: ../admin/widget-profile.php:122
+#: ../admin/widget-vcards.php:135
+msgid "URL 5"
+msgstr ""
+
+#: ../admin/widget-social-icons.php:24
+msgid "Display Social Icons"
+msgstr ""
+
+#: ../admin/widget-social-icons.php:50
+msgid "Social Icons"
+msgstr ""
+
+#: ../admin/widget-social-icons.php:60
+msgid "Social Icon"
+msgstr ""
+
+#: ../admin/widget-social-icons.php:65
+msgid "URL (enter email address if you selected 'Email' icon above)"
+msgstr ""
+
+#: ../admin/widget-tabs.php:24
+msgid "Display Tabs"
+msgstr ""
+
+#: ../admin/widget-tabs.php:39
+msgid "Tab Boxes"
+msgstr ""
+
+#: ../admin/widget-tabs.php:42
+msgid "Tab"
+msgstr ""
+
+#: ../admin/widget-tabs.php:44
+msgid "Only 4 tabs allowed. Please use a wpHoot theme to add more tabs."
+msgstr ""
+
+#: ../admin/widget-tabs.php:44
+msgid "Only 4 tabs available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/widget-tabs.php:49
+msgid "Tab Heading"
+msgstr ""
+
+#: ../admin/widget-tabs.php:53
+msgid "Tab Content"
+msgstr ""
+
+#: ../admin/widget-ticker-posts.php:24
+msgid "Animated horizontal scrolling posts"
+msgstr ""
+
+#: ../admin/widget-ticker-posts.php:33
+msgid "Ticker"
+msgstr ""
+
+#: ../admin/widget-ticker-posts.php:93
+msgid "Default: 30 (recommended for single line style below).<br />Set this to 50 for multiline style below"
+msgstr ""
+
+#: ../admin/widget-ticker-posts.php:100
+#: ../admin/widget-ticker.php:87
+msgid "Text Style"
+msgstr ""
+
+#: ../admin/widget-ticker.php:24
+msgid "Animated horizontal scrolling ticker messages"
+msgstr ""
+
+#: ../admin/widget-ticker.php:45
+msgid "Messages"
+msgstr ""
+
+#: ../admin/widget-ticker.php:46
+msgid "To write multiple messages, start a new message in a new line."
+msgstr ""
+
+#: ../admin/widget-toggle.php:24
+msgid "Display Toggle"
+msgstr ""
+
+#: ../admin/widget-toggle.php:39
+msgid "Open only one Toggle Box at a time"
+msgstr ""
+
+#: ../admin/widget-toggle.php:43
+msgid "Toggle Boxes"
+msgstr ""
+
+#: ../admin/widget-toggle.php:46
+msgid "Box"
+msgstr ""
+
+#: ../admin/widget-toggle.php:48
+msgid "Only 4 toggle boxes allowed. Please use a wpHoot theme to add more toggle boxes."
+msgstr ""
+
+#: ../admin/widget-toggle.php:48
+msgid "Only 4 toggle boxes available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/widget-toggle.php:53
+msgid "Toggle Heading"
+msgstr ""
+
+#: ../admin/widget-toggle.php:57
+msgid "Toggle Content"
+msgstr ""
+
+#: ../admin/widget-toggle.php:61
+msgid "Check this to set Toggle box as 'open'. By default, toggle boxes are closed on page load."
+msgstr ""
+
+#: ../admin/widget-vcards.php:24
+msgid "Display ID Cards for Testimonials, Teams etc."
+msgstr ""
+
+#: ../admin/widget-vcards.php:68
+msgid "Vcards"
+msgstr ""
+
+#: ../admin/widget-vcards.php:71
+msgid "Vcard"
+msgstr ""
+
+#: ../admin/widget-vcards.php:73
+msgid "Only 4 vcards allowed. Please use a wpHoot theme to add more vcards."
+msgstr ""
+
+#: ../admin/widget-vcards.php:73
+msgid "Only 4 vcards available in the Free version of the theme."
+msgstr ""
+
+#: ../admin/widget-vcards.php:87
+msgid "&lt;h4&gt;John Doe&lt;/h4&gt;<br>&lt;cite&gt;Designation Subtext&lt;/cite&gt;<br>Some description about John..<br>&lt;a href=\"http://url.com\"&gt;Website&lt;/a&gt;"
+msgstr ""
+
+#: ../admin/widgets.php:123
+#, php-format
+msgid "%1$sThis widget preview is not available in the Edit screen.%2$s"
+msgstr ""
+
+#: ../admin/widgets.php:293
+msgid "Select Icon"
+msgstr ""
+
+#: ../admin/widgets.php:296
+msgid "Remove Icon"
+msgstr ""
+
+#: ../admin/widgets.php:317
+msgid "Select Image"
+msgstr ""
+
+#: ../admin/widgets.php:317
+msgid "Set Image"
+msgstr ""
+
+#: ../admin/widgets.php:324
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/widgets.php:325
+msgid "Remove Image"
+msgstr ""
+
+#: ../admin/widgets.php:365
+msgid "Add"
+msgstr ""
+
+#: ../admin/widgets.php:374
+msgid "Group"
+msgstr ""
+
+#: ../admin/widgets.php:628
+#: ../admin/widgets.php:630
+msgid "Widget ID:"
+msgstr ""
+
+#: ../admin/widgets.php:628
+msgid "Please save the widget first!"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:771
+msgid "Amazon"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:772
+msgid "Android"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:773
+msgid "Apple"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:774
+msgid "Bandcamp"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:775
+msgid "Behance"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:776
+msgid "Bitbucket"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:777
+msgid "BTC"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:778
+msgid "BuySellAds"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:779
+msgid "Codepen"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:780
+msgid "Codie Pie"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:781
+msgid "Contao"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:782
+msgid "Dash Cube"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:783
+msgid "Delicious"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:784
+msgid "Deviantart"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:785
+msgid "Digg"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:786
+msgid "Dribbble"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:787
+msgid "Dropbox"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:788
+msgid "Eercast"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:790
+msgid "Etsy"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:791
+msgid "Facebook"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:792
+msgid "Flickr"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:793
+msgid "Forumbee"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:794
+msgid "Foursquare"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:795
+msgid "Free Code Camp"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:796
+msgid "Pocket (getpocket)"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:797
+msgid "Github"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:798
+msgid "Google"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:799
+msgid "Google Plus"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:800
+msgid "Google Wallet"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:801
+msgid "Houzz"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:802
+msgid "IMDB"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:803
+msgid "Instagram"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:804
+msgid "JS Fiddle"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:805
+msgid "Last FM"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:806
+msgid "Leanpub"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:807
+msgid "Linkedin"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:808
+msgid "Meetup"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:809
+msgid "Mixcloud"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:810
+msgid "Paypal"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:811
+msgid "Pinterest"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:812
+msgid "Quora"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:813
+msgid "Reddit"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:814
+msgid "RSS"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:815
+msgid "Scribd"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:816
+msgid "Skype"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:817
+msgid "Slack"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:818
+msgid "Slideshare"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:819
+msgid "Snapchat"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:820
+msgid "Soundcloud"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:821
+msgid "Spotify"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:822
+msgid "Stack Exchange"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:823
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:824
+msgid "Steam"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:825
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:826
+msgid "Trello"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:827
+msgid "Trip Advisor"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:828
+msgid "Tumblr"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:829
+msgid "Twitch"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:830
+msgid "Twitter"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:831
+msgid "Viadeo"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:832
+msgid "Vimeo"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:833
+msgid "VK"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:834
+msgid "Wikipedia"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:835
+msgid "Windows"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:836
+msgid "Wordpress"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:837
+msgid "Xing"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:838
+msgid "Y Combinator"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:839
+msgid "Yelp"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:840
+msgid "Youtube"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:860
+msgid "Font Icons"
+msgstr ""
+
+#: ../include/hoot-library-icons.php:861
+msgid "Brands"
+msgstr ""
+
+#: ../include/slider-productcarousel.php:95
+#: ../include/slider-productlistcarousel.php:109
+#: ../include/template-functions.php:300
+msgid "In:"
+msgstr ""
+
+#: ../include/slider-productcarousel.php:99
+#: ../include/slider-productlistcarousel.php:113
+#: ../include/template-functions.php:306
+msgid "Tagged:"
+msgstr ""
+
+#: ../include/strings.php:3
+msgid "Slider Widgets"
+msgstr ""
+
+#: ../include/strings.php:4
+msgid "Content Widgets"
+msgstr ""
+
+#: ../include/strings.php:5
+msgid "Post Widgets"
+msgstr ""
+
+#: ../include/strings.php:6
+msgid "Display Widgets"
+msgstr ""
+
+#: ../include/strings.php:7
+msgid "Woocommerce"
+msgstr ""
+
+#: ../include/strings.php:8
+msgid "Misc. Features"
+msgstr ""
+
+#: ../include/strings.php:10
+#: ../include/strings.php:11
+msgid "HK > Slider Images"
+msgstr ""
+
+#: ../include/strings.php:12
+#: ../include/strings.php:13
+msgid "HK > Posts Slider"
+msgstr ""
+
+#: ../include/strings.php:15
+msgid "HK > Carousel"
+msgstr ""
+
+#: ../include/strings.php:16
+msgid "HK > Posts Carousel"
+msgstr ""
+
+#: ../include/strings.php:17
+msgid "HK > Posts List Carousel"
+msgstr ""
+
+#: ../include/strings.php:19
+msgid "HK > Products Carousel"
+msgstr ""
+
+#: ../include/strings.php:20
+msgid "HK > Products List Carousel"
+msgstr ""
+
+#: ../include/strings.php:22
+msgid "HK > Products Blocks"
+msgstr ""
+
+#: ../include/strings.php:23
+msgid "HK > Products List"
+msgstr ""
+
+#: ../include/strings.php:24
+msgid "HK > Products Ticker"
+msgstr ""
+
+#: ../include/strings.php:25
+msgid "HK > Products Search"
+msgstr ""
+
+#: ../include/strings.php:26
+msgid "HK > Products Cart Icon"
+msgstr ""
+
+#: ../include/strings.php:27
+msgid "Offscreen WooCommerce Cart"
+msgstr ""
+
+#: ../include/strings.php:29
+msgid "HK > Announce"
+msgstr ""
+
+#: ../include/strings.php:30
+msgid "HK > Content Blocks"
+msgstr ""
+
+#: ../include/strings.php:31
+msgid "HK > Posts Blocks"
+msgstr ""
+
+#: ../include/strings.php:32
+msgid "HK > Call To Action"
+msgstr ""
+
+#: ../include/strings.php:33
+msgid "HK > Icon"
+msgstr ""
+
+#: ../include/strings.php:34
+msgid "HK > Posts Grid"
+msgstr ""
+
+#: ../include/strings.php:35
+msgid "HK > Posts List"
+msgstr ""
+
+#: ../include/strings.php:36
+msgid "HK > Social Icons"
+msgstr ""
+
+#: ../include/strings.php:37
+msgid "HK > Ticker"
+msgstr ""
+
+#: ../include/strings.php:38
+msgid "HK > Posts Ticker"
+msgstr ""
+
+#: ../include/strings.php:39
+msgid "HK > About/Profile"
+msgstr ""
+
+#: ../include/strings.php:40
+msgid "HK > Content Grid"
+msgstr ""
+
+#: ../include/strings.php:41
+msgid "HK > Cover Image"
+msgstr ""
+
+#: ../include/strings.php:43
+msgid "HK > Contact Info"
+msgstr ""
+
+#: ../include/strings.php:44
+msgid "HK > Number Blocks"
+msgstr ""
+
+#: ../include/strings.php:45
+msgid "HK > Vcards"
+msgstr ""
+
+#: ../include/strings.php:46
+msgid "HK > Buttons"
+msgstr ""
+
+#: ../include/strings.php:47
+msgid "HK > Icon List"
+msgstr ""
+
+#: ../include/strings.php:48
+msgid "HK > Notice Box"
+msgstr ""
+
+#: ../include/strings.php:49
+msgid "HK > Toggle"
+msgstr ""
+
+#: ../include/strings.php:50
+msgid "HK > Tabs"
+msgstr ""
+
+#: ../include/strings.php:52
+msgid "Top Banner"
+msgstr ""
+
+#: ../include/strings.php:53
+msgid "Timer (shortcode)"
+msgstr ""
+
+#: ../include/strings.php:55
+msgid "White"
+msgstr ""
+
+#: ../include/strings.php:56
+msgid "Black"
+msgstr ""
+
+#: ../include/strings.php:57
+msgid "Brown"
+msgstr ""
+
+#: ../include/strings.php:58
+msgid "Brown (Bright)"
+msgstr ""
+
+#: ../include/strings.php:59
+msgid "Blue"
+msgstr ""
+
+#: ../include/strings.php:60
+msgid "Blue (Bright)"
+msgstr ""
+
+#: ../include/strings.php:61
+msgid "Cyan"
+msgstr ""
+
+#: ../include/strings.php:62
+msgid "Cyan (Bright)"
+msgstr ""
+
+#: ../include/strings.php:63
+msgid "Green"
+msgstr ""
+
+#: ../include/strings.php:64
+msgid "Green (Bright)"
+msgstr ""
+
+#: ../include/strings.php:65
+msgid "Yellow"
+msgstr ""
+
+#: ../include/strings.php:66
+msgid "Yellow (Bright)"
+msgstr ""
+
+#: ../include/strings.php:67
+msgid "Amber"
+msgstr ""
+
+#: ../include/strings.php:68
+msgid "Amber (Bright)"
+msgstr ""
+
+#: ../include/strings.php:69
+msgid "Orange"
+msgstr ""
+
+#: ../include/strings.php:70
+msgid "Orange (Bright)"
+msgstr ""
+
+#: ../include/strings.php:71
+msgid "Red"
+msgstr ""
+
+#: ../include/strings.php:72
+msgid "Red (Bright)"
+msgstr ""
+
+#: ../include/strings.php:73
+msgid "Pink"
+msgstr ""
+
+#: ../include/strings.php:74
+msgid "Pink (Bright)"
+msgstr ""
+
+#: ../include/template-functions.php:286
+msgid "By:"
+msgstr ""
+
+#: ../include/template-functions.php:293
+msgid "On:"
+msgstr ""
+
+#: ../include/template-functions.php:307
+msgid "No Tags"
+msgstr ""
+
+#: ../include/template-functions.php:311
+msgid "With:"
+msgstr ""
+
+#: ../include/template-functions.php:313
+msgid "0 Comments"
+msgstr ""
+
+#: ../include/template-functions.php:314
+msgid "1 Comment"
+msgstr ""
+
+#: ../include/template-functions.php:315
+msgid "% Comments"
+msgstr ""
+
+#: ../include/template-functions.php:321
+msgid "Edit This"
+msgstr ""
+
+#: ../include/template-functions.php:437
+msgid "View All"
+msgstr ""
+
+#: ../template/widget-content-blocks.php:91
+#, php-format
+msgid "Read More %s"
+msgstr ""
+
+#: ../template/widget-products-search.php:4
+msgid "Search"
+msgstr ""
+
+#: ../template/widget-products-search.php:7
+msgid "Select Category"
+msgstr ""
+
