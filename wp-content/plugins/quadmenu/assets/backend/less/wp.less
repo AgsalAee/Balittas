@@ -1,0 +1,26 @@
+body {
+
+  &.quadmenu-pro {
+    #adminmenu {
+      #toplevel_page_quadmenu_welcome {
+        a[href="admin.php?page=quadmenu_welcome"] {
+          .wp-menu-name {
+            &:before {
+              content: 'PRO';
+              color: #fff;                    
+              background-color: @brand-primary;
+              padding: 1px 7px;
+              font-size: 9px;
+              font-weight: 700;
+              border-radius: 10px;
+              position: absolute;
+              right: 15px;
+              line-height: 16px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+}

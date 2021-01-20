@@ -1,0 +1,194 @@
+#quadmenu-settings {
+
+  > .quadmenu-settings-body {
+
+    @media only screen and (min-width: 960px) {
+
+      > .quadmenu-tabs {
+        &.vertical {
+          width: 160px;
+          //height: 430px;  
+
+          > li {
+            text-align: left;
+            > a {
+              >  .title {
+                display: inline-block;
+              }
+            }
+
+          }
+        }
+      }
+
+      > .quadmenu-tabs-content {
+        padding-left: 160px;
+      }
+
+    }
+  }
+
+  // Tabs 
+  // -------------------------------------------------------------------------
+
+  .quadmenu-tabs {
+    position: relative;
+    //position: absolute;
+    width: 100%;
+    //left: 0;
+    //right: 0;
+    //top: 0;
+    display: flex;
+    background-color: #fafafa;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-color: #e5e5e5;
+    margin: 0;
+
+    > .spinner {
+      position: absolute;
+      top: 50%;
+      right: 0;
+      margin: -10px 15px 0 0;
+    }
+
+    > li {
+      position: static;
+      margin: 0;
+
+      &:not(:last-child) {
+        border-color: #e5e5e5;
+        border-width: 0 1px 0 0;
+        border-style: solid;
+      }
+
+      &.ui-sortable-helper {
+        display: block;
+        overflow: hidden;
+        border-width: 1px;
+        opacity: 0.8;
+      }
+
+      &.drop-tab {
+        padding: 4px;
+        box-sizing: border-box;
+        overflow: visible;
+        display: table;
+
+        &:before {
+          display: table-cell;
+          height: 100%;
+          content: '';
+          box-sizing: border-box;
+          width: 100%;
+          min-height: 40px;
+          position: relative;
+          border: 1px dashed #DFDFDF;
+        }
+      }
+
+      &.open,
+      &.active {
+
+        > a {
+          background: #fff;
+          position: relative;
+        }
+      }
+
+      > a {
+        position: relative;
+        display: block;
+        height: 46px;
+        line-height: 46px;
+        padding: 0 15px;        
+        background-color: #fafafa;
+        color: #444;
+        text-decoration: none;
+        font-weight: 700;
+        box-shadow: none;
+        z-index: 999;
+
+        .transition(all 0.4s);
+
+        > .title {                    
+          margin: 0 0 0 15px;
+        }
+
+        &:focus,
+          &:active,
+          &:hover {
+          outline: 0;
+          color: #222;
+        }
+      }
+    }
+
+    &.vertical {      
+      width: 50px;
+      flex-direction: column;
+      border-width: 0 1px 0 0;
+      border-style: solid;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 999;
+
+      > li {        
+        width: 100%;
+        margin: 0;        
+        text-align: center;
+
+        &:not(:last-child) {
+          border-width: 0 0 1px 0;
+        }
+
+        > a {
+          >  .title {
+            display: none;
+          }
+        }
+
+        &.active {
+          border-bottom: 1px solid #e5e5e5;
+          > a {
+            margin-right: -1px;
+            .transition(all 0.4s);
+          }
+        }
+
+      }
+    }
+
+  }
+
+  .quadmenu-tabs-content {
+    position: relative;
+    height: 100%;
+    padding-left: 50px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 400px;    
+    background-color: #fff; 
+    //padding: 15px;
+
+    .quadmenu-tab-pane {
+      display: none;
+      position: relative;
+      padding: 15px;
+
+      &.quadmenu-tab-pane-mega,
+      &.quadmenu-tab-pane-tabs,
+      &.quadmenu-tab-pane-carousel {        
+        padding: 0;
+      }
+
+      &.active {
+        display: block;
+        .animation(fadeIn 1s forwards);
+      }
+    }
+  }
+
+}

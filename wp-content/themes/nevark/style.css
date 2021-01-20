@@ -2437,6 +2437,7 @@ body {
   display: -webkit-flex;
   display: flex;
   align-items: center;
+  height: 200px;
 }
 .header-aside .menu-area-wrap {
   justify-content: flex-end;

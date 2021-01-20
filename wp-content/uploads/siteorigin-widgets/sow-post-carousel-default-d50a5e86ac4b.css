@@ -1,0 +1,41 @@
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-title a.sow-carousel-next,
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-title a.sow-carousel-previous {
+  background: #333333;
+  color: #ffffff;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-title a.sow-carousel-next:focus,
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-title a.sow-carousel-previous:focus,
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-title a.sow-carousel-next:hover,
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-title a.sow-carousel-previous:hover {
+  background: #444444;
+  
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item {
+  width: 414px;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a {
+  background-repeat: no-repeat;
+  background-size: 414px 378px;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a,
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a span.overlay {
+  width: 414px;
+  height: 378px;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a span.overlay {
+  background: #3279bb;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a:hover {
+  background-size: 460px 420px;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item:focus .sow-carousel-thumbnail a {
+  background-size: 460px 420px;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-default-thumbnail {
+  width: 414px;
+  height: 378px;
+}
+.so-widget-sow-post-carousel-default-d50a5e86ac4b .sow-carousel-wrapper .sow-carousel-items .sow-carousel-loading {
+  width: 414px;
+  height: 378px;
+}
