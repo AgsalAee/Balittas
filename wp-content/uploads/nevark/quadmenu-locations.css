@@ -1449,11 +1449,11 @@
   margin-bottom: 0px;
 }
 #quadmenu.quadmenu-custom_theme_1.quadmenu-is-horizontal.js .quadmenu-navbar-header .quadmenu-navbar-brand {
-  height: 50px;
-  line-height: 50px;
+  height: 90px;
+  line-height: 90px;
 }
 #quadmenu.quadmenu-custom_theme_1.quadmenu-is-horizontal.js .quadmenu-navbar-nav > li.quadmenu-item {
-  height: 50px;
+  height: 90px;
 }
 #quadmenu.quadmenu-custom_theme_1.quadmenu-is-horizontal.quadmenu-divider-show .quadmenu-navbar-nav > li > a:after,
 #quadmenu.quadmenu-custom_theme_1.quadmenu-is-horizontal.quadmenu-divider-show .quadmenu-navbar-nav > li.quadmenu-item-type-search > form:after {
