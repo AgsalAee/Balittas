@@ -482,13 +482,13 @@
 #quadmenu.quadmenu-custom_theme_1 .widget a,
 #quadmenu.quadmenu-custom_theme_1 .widget ul li {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 0;
   font-style: 0;
   letter-spacing: inherit;
 }
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_rss span.rss-date {
-  font-size: 16px;
+  font-size: 14px;
 }
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_products li > a,
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_recent_reviews li > a,
@@ -504,7 +504,7 @@
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_featured_posts li > a > span.product-title {
   text-transform: none;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 0;
   font-style: 0;
   letter-spacing: inherit;
@@ -521,7 +521,7 @@
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_recently_viewed_products li > a > .date,
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_top_rated_products li > a > .date,
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_featured_posts li > a > .date {
-  font-size: 18px;
+  font-size: 16px;
 }
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_products li span.reviewer,
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_recent_reviews li span.reviewer,
@@ -533,10 +533,10 @@
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_shopping_cart li span.amount,
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_recently_viewed_products li span.amount,
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_top_rated_products li span.amount {
-  font-size: 16px;
+  font-size: 14px;
 }
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_price_filter .price_slider_amount {
-  font-size: 16px;
+  font-size: 14px;
 }
 #quadmenu.quadmenu-custom_theme_1 .widget ul {
   list-style: none;
@@ -579,7 +579,7 @@
 }
 #quadmenu.quadmenu-custom_theme_1 .widget.widget_shopping_cart .total {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 0;
   font-style: 0;
   text-transform: uppercase;
