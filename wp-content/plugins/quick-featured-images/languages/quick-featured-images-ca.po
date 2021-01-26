@@ -1,0 +1,1136 @@
+# Copyright (C) 2014
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Traducción a Catalán by Ibidem Group\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/quick-featured-images\n"
+"POT-Creation-Date: 2020-12-16 16:03+0100\n"
+"PO-Revision-Date: 2020-12-16 16:03+0100\n"
+"Last-Translator: Martin Stehle <m.stehle@gmx.de>\n"
+"Language-Team: IBIDEM GROUP <https://www.ibidemgroup.com>\n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-quick-featured-images-admin.php:215
+msgid ""
+"Your time-saving Swiss Army Knife for featured images: Set, replace and "
+"delete them in bulk, in posts lists and set default images for future posts."
+msgstr ""
+"La seva navalla suïssa per a les imatges destacades: establir, reemplaçar i "
+"eliminar en grup o en llistes de publicacions, i establir imatges "
+"predeterminades per a futures publicacions."
+
+#: admin/class-quick-featured-images-admin.php:278
+#, php-format
+msgid ""
+"The plugin requires WordPress version %s or higher. Therefore, WordPress did "
+"not activate it. If you want to use this plugin update the Wordpress files "
+"to the latest version."
+msgstr ""
+"El connector requereix una versió de WordPress %s o superior. Per tant, "
+"WordPress no ho va activar. Si voleu utilitzar aquest plugin, heu "
+"d'actualitzar els arxius de Wordpress a l'última versió."
+
+#: admin/class-quick-featured-images-admin.php:484
+#, php-format
+msgid "Welcome to %s! You can find the plugin at %s."
+msgstr "Benvinguts a %s! Podeu trobar el plugin a %s."
+
+#: admin/class-quick-featured-images-columns.php:278
+msgid "(external image)"
+msgstr "(imatge externa)"
+
+#: admin/class-quick-featured-images-columns.php:279
+#, php-format
+msgid "Change &#8220;%s&#8221;"
+msgstr "Canviar &#8220;%s&#8221;"
+
+#: admin/class-quick-featured-images-columns.php:280
+#, php-format
+msgid "Remove &#8220;%s&#8221;"
+msgstr "Suprimir &#8220;%s&#8221;"
+
+#: admin/class-quick-featured-images-columns.php:281
+#, php-format
+msgid "Set image for &#8220;%s&#8221;"
+msgstr "Estableix la imatge per a &#8220;%s&#8221;"
+
+#: admin/class-quick-featured-images-columns.php:646
+msgid "Featured image for"
+msgstr ""
+
+#: admin/class-quick-featured-images-defaults.php:277
+msgid "Preset Featured Images"
+msgstr "Imatges destacades predefinides"
+
+#: admin/class-quick-featured-images-defaults.php:288
+msgid "Set default featured images for future posts"
+msgstr "Definir imatges destacades predeterminades per a publicacions futures"
+
+#: admin/class-quick-featured-images-settings.php:232
+msgid "Set the visibility of columns of featured images in posts lists"
+msgstr ""
+"Definir la visibilitat de les columnes d'imatges destacades a les llistes de "
+"publicacions"
+
+#: admin/class-quick-featured-images-settings.php:383
+msgid "Columns for featured images in posts lists"
+msgstr "Columnes d'imatges destacades a les llistes de publicacions"
+
+#: admin/class-quick-featured-images-settings.php:391
+msgid "Show additional column for featured images in lists of"
+msgstr ""
+"Mostra la columna addicional per a les imatges destacades a les llistes de"
+
+#: admin/class-quick-featured-images-settings.php:396
+msgid "Posts list with image column"
+msgstr "Llista de publicacions amb columna d'imatge"
+
+#: admin/class-quick-featured-images-settings.php:419
+msgid "Column in the library for posts with assigned featured image"
+msgstr ""
+
+#: admin/class-quick-featured-images-settings.php:427
+msgid "Show additional column in the library for posts with featured images"
+msgstr ""
+
+#: admin/class-quick-featured-images-settings.php:432
+msgid "Post list column in the library"
+msgstr ""
+
+#: admin/class-quick-featured-images-settings.php:455
+msgid "Visibility of the plugin"
+msgstr "Visibilitat del plugin"
+
+#: admin/class-quick-featured-images-settings.php:463
+msgid "Which user role may see the plugin?"
+msgstr "Quin rol d'usuari pot veure el connector?"
+
+#: admin/class-quick-featured-images-settings.php:596
+msgid ""
+"Activate the checkboxes at each post type to show the extra columns in the "
+"post lists."
+msgstr ""
+"Activeu les caselles de selecció de cada tipus d'entrada per mostrar les "
+"columnes addicionals a les llistes de correus."
+
+#: admin/class-quick-featured-images-settings.php:615
+msgid ""
+"Display a new column in the media library with the titles of the posts for "
+"which the corresponding image is set as featured image"
+msgstr ""
+
+#: admin/class-quick-featured-images-settings.php:618
+msgid ""
+"Activate the checkbox to show the extra column in the media library. If you "
+"would not see the new column in the library switch the appereance of the "
+"library to List mode. The post titles are links to the respective post edit "
+"page."
+msgstr ""
+
+#: admin/class-quick-featured-images-settings.php:630
+msgid "Minimum user role to see the plugin in the backend"
+msgstr "Rol mínim de l'usuari per veure el connector al backend"
+
+#: admin/class-quick-featured-images-settings.php:666
+msgid "Select the minimum user role a user must have to see the plugin."
+msgstr ""
+"Seleccioneu el rol mínim d'usuari que un usuari ha de tenir per veure el "
+"connector."
+
+#: admin/class-quick-featured-images-settings.php:671
+#, php-format
+msgid ""
+"The rules as set in &#8220;%s&#8221; work on posts independently of this "
+"setting."
+msgstr ""
+"Les regles establertes en \"%s\" funcionen en llocs independentment d'aquest "
+"entorn."
+
+#: admin/class-quick-featured-images-settings.php:676
+msgid ""
+"This setting controls as well whether a user will see in an image column the "
+"thumbnails with action links or the thumbnails only. To switch image columns "
+"on and off use the section above."
+msgstr ""
+"Aquesta opció de configuració controla també si un usuari veurà en una "
+"columna d'imatge les miniatures amb enllaços d'acció o només les miniatures. "
+"Per activar i desactivar les columnes d'imatge, utilitzeu la secció anterior."
+
+#: admin/class-quick-featured-images-settings.php:677
+msgid "This page is accessible for administrators only."
+msgstr "Aquesta pàgina només és accessible per als administradors."
+
+#: admin/class-quick-featured-images-settings.php:687
+msgid ""
+"The additional columns give you a quick overview about all used featured "
+"images for every post. The Featured Image column is sortable."
+msgstr ""
+"Les columnes addicionals us donen una visió general ràpida sobre totes les "
+"imatges destacades utilitzades per a cada publicació. La columna Imatge "
+"destacada es pot ordenar."
+
+#: admin/class-quick-featured-images-settings.php:696
+msgid "Controls which minimum user role can see the plugin."
+msgstr "Controla quina funció mínima d'usuari pot veure el connector."
+
+#: admin/class-quick-featured-images-settings.php:705
+msgid ""
+"The additional column in the media library lists all posts for which the "
+"image is set as featured."
+msgstr ""
+
+#: admin/class-quick-featured-images-tools.php:473
+#, php-format
+msgid "Wrong image ID %d"
+msgstr "ID d'imatge incorrecte %d"
+
+#: admin/class-quick-featured-images-tools.php:575
+msgid "Select"
+msgstr "Seleccionar"
+
+#: admin/class-quick-featured-images-tools.php:576
+msgid "Add filter"
+msgstr "Afegir filtre"
+
+#: admin/class-quick-featured-images-tools.php:577
+msgid "Refine"
+msgstr "Refinar"
+
+#: admin/class-quick-featured-images-tools.php:578
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: admin/class-quick-featured-images-tools.php:579
+msgid "Perform"
+msgstr "Realitzar"
+
+#: admin/class-quick-featured-images-tools.php:583
+msgid "Set the selected image as new featured image"
+msgstr "Estableix la imatge seleccionada com a nova imatge destacada"
+
+#: admin/class-quick-featured-images-tools.php:584
+msgid "Replace featured images by the selected image"
+msgstr "Substitueix les imatges destacades per la imatge seleccionada"
+
+#: admin/class-quick-featured-images-tools.php:585
+msgid "Remove the selected image as featured image"
+msgstr "Eliminar la imatge seleccionada com a imatge destacada"
+
+#: admin/class-quick-featured-images-tools.php:588
+msgid "Remove any image as featured image"
+msgstr "Eliminar qualsevol imatge com a imatge destacada"
+
+#: admin/class-quick-featured-images-tools.php:589
+msgid "Remove all featured images without existing image files"
+msgstr "Eliminar totes les imatges destacades sense fitxers d'imatge existents"
+
+#: admin/class-quick-featured-images-tools.php:592
+msgid "Set multiple images randomly as featured images"
+msgstr "Establir diverses imatges aleatòriament com a imatges destacades"
+
+#: admin/class-quick-featured-images-tools.php:596
+msgid "Overwrite featured images"
+msgstr "Sobreescriure les imatges destacades"
+
+#: admin/class-quick-featured-images-tools.php:597
+msgid "Consider only posts without any featured image"
+msgstr "Només entrades sense cap imatge destacada"
+
+#: admin/class-quick-featured-images-tools.php:601
+msgid "Post Type Filter"
+msgstr "Filtre de tipus de publicació"
+
+#: admin/class-quick-featured-images-tools.php:602
+msgid "Category Filter"
+msgstr "Filtre de categoria"
+
+#: admin/class-quick-featured-images-tools.php:603
+msgid "Tag Filter"
+msgstr "Filtre d'etiquetes"
+
+#: admin/class-quick-featured-images-tools.php:632
+msgid "Image width in pixels lower than"
+msgstr "Amplada de la imatge en píxels inferior a"
+
+#: admin/class-quick-featured-images-tools.php:633
+msgid "Image height in pixels lower than"
+msgstr "Alçada de la imatge en píxels inferiors a"
+
+#: admin/class-quick-featured-images-tools.php:742
+#, php-format
+msgid "The input field %s is empty."
+msgstr "El camp d'%s és buit."
+
+#: admin/class-quick-featured-images-tools.php:743
+msgid "Type in a value into the input field."
+msgstr "Escriviu un valor al camp d'entrada."
+
+#: admin/class-quick-featured-images-tools.php:746
+#, php-format
+msgid "%s is not defined."
+msgstr "%s no està definida."
+
+#: admin/class-quick-featured-images-tools.php:747
+msgid "Check how to define the value."
+msgstr "Comproveu com definir el valor."
+
+#: admin/class-quick-featured-images-tools.php:750
+msgid "There is no selected image."
+msgstr "No hi ha cap imatge seleccionada."
+
+#: admin/class-quick-featured-images-tools.php:751
+msgid "Select an image from the media library."
+msgstr "Seleccionar una imatge de la biblioteca multimèdia."
+
+#: admin/class-quick-featured-images-tools.php:754
+#: admin/views/section_image.php:51
+msgid "You have not selected an action."
+msgstr "No heu seleccionat cap acció."
+
+#: admin/class-quick-featured-images-tools.php:755
+msgid "Start again and select which action you want to apply."
+msgstr "Tornar a començar i selecciona quina acció vols aplicar."
+
+#: admin/class-quick-featured-images-tools.php:758
+#, php-format
+msgid "The input field %s has an invalid value."
+msgstr "El camp d'%s té un valor no vàlid."
+
+#: admin/class-quick-featured-images-tools.php:759
+msgid "Type in valid values in the input field."
+msgstr "Escrivu valors vàlids al camp d'entrada."
+
+#: admin/class-quick-featured-images-tools.php:763
+msgid "Type in values stored by WordPress."
+msgstr "Escriviu els valors emmagatzemats per WordPress."
+
+#: admin/class-quick-featured-images-tools.php:1937
+msgid "Set, replace, remove"
+msgstr "Definir, reemplaçar, suprimir"
+
+#: admin/class-quick-featured-images-tools.php:1948
+msgid "Bulk set, replace and remove featured images for existing posts"
+msgstr ""
+"Conjunt massiu, substituir i eliminar imatges destacades per als missatges "
+"existents"
+
+#: admin/class-quick-featured-images-tools.php:2057
+msgid "Bulk set as featured image"
+msgstr "Conjunt massiu com a imatge destacada"
+
+#: admin/views/filter_category.php:3
+msgid "Select a category"
+msgstr "Seleccionar categoria"
+
+#: admin/views/filter_category.php:14
+msgid "The selection of a category includes all of its subcategories."
+msgstr ""
+
+#: admin/views/filter_post_types.php:2
+msgid "Select post types"
+msgstr "Seleccioneu els tipus d'entrada"
+
+#: admin/views/filter_tag.php:7
+msgid "Select a tag"
+msgstr "Seleccioneu una etiqueta"
+
+#: admin/views/filter_tag.php:20
+msgid "There are no tags in use."
+msgstr "No hi ha etiquetes en ús."
+
+#: admin/views/form_back_to_selection.php:2
+msgid "Select filters and options again"
+msgstr "Torna a seleccionar filtres i opcions"
+
+#: admin/views/form_back_to_selection.php:3
+msgid ""
+"If you want to change your former selection just go back by clicking on this "
+"button."
+msgstr ""
+"Si voleu canviar la vostra antiga selecció, torneu a fer clic en aquest botó."
+
+#: admin/views/form_back_to_selection.php:42
+msgid "Modify selection"
+msgstr "Modifica la selecció"
+
+#: admin/views/form_confirm.php:1
+msgid "Preview of your selection"
+msgstr "Visualització prèvia de la selecció"
+
+#: admin/views/form_confirm.php:2
+#, php-format
+msgid "%d matches found"
+msgstr "%d coincidencies trobades"
+
+#: admin/views/form_confirm.php:12
+msgid ""
+"Should the entries of featured images without image files be removed from "
+"the database?"
+msgstr ""
+"S'han d'eliminar les entrades d'imatges destacades sense fitxers d'imatge de "
+"la base de dades?"
+
+#: admin/views/form_confirm.php:15 admin/views/section_results.php:16
+msgid "Details"
+msgstr "Detalls"
+
+#: admin/views/form_confirm.php:16 admin/views/section_defaults.php:17
+#: admin/views/section_results.php:18
+msgid "No."
+msgstr "No."
+
+#: admin/views/form_confirm.php:17 admin/views/section_results.php:17
+msgid "Current Featured Image"
+msgstr "Imatge destacada actual"
+
+#: admin/views/form_confirm.php:18
+msgid "Future Featured Image"
+msgstr "Imatge destacada futura"
+
+#: admin/views/form_confirm.php:19
+msgid "written on"
+msgstr "escrit en"
+
+#: admin/views/form_confirm.php:20
+msgid "by"
+msgstr "per"
+
+#: admin/views/form_confirm.php:35
+msgid "Should the selected image be set as featured image to all listed posts?"
+msgstr ""
+"S'ha d'establir la imatge seleccionada com a imatge destacada a tots els "
+"missatges llistats?"
+
+#: admin/views/form_confirm.php:38
+msgid ""
+"Should the selected images be set randomly as featured images to all listed "
+"posts?"
+msgstr ""
+"Les imatges seleccionades s'han d'establir aleatòriament com a imatges "
+"destacades a tots els missatges llistats?"
+
+#: admin/views/form_confirm.php:41
+msgid ""
+"Should the current set featured image be replaced by the selected image at "
+"all listed posts?"
+msgstr ""
+"La imatge destacada del conjunt actual ha de ser substituïda per la imatge "
+"seleccionada en tots els missatges llistats?"
+
+#: admin/views/form_confirm.php:44
+msgid "Should the selected image be removed from all listed posts?"
+msgstr ""
+"S'ha de suprimir la imatge seleccionada de tots els missatges de la llista?"
+
+#: admin/views/form_confirm.php:47
+msgid "Should the future images be set as featured images at all listed posts?"
+msgstr ""
+"S'han d'establir les imatges futures com a imatges destacades en tots els "
+"missatges llistats?"
+
+#: admin/views/form_confirm.php:50
+msgid "Should the added featured images be removed from all listed posts?"
+msgstr ""
+"S'han de suprimir les imatges destacades afegides de tots els missatges "
+"llistats?"
+
+#: admin/views/form_confirm.php:54 admin/views/section_results.php:27
+msgid ""
+"The list is in alphabetical order according to post title. You can edit a "
+"post in a new window by clicking on its link in the list."
+msgstr ""
+"La llista està en ordre alfabètic segons el títol posterior. Podeu editar "
+"una publicació en una finestra nova fent clic al seu enllaç de la llista."
+
+#: admin/views/form_confirm.php:120
+msgid "Confirm the change"
+msgstr "Confirma el canvi"
+
+#: admin/views/form_confirm.php:121
+msgid "You can not undo the operation!"
+msgstr "No es pot desfer l'operació!"
+
+#: admin/views/form_confirm.php:182 admin/views/section_errormsg.php:8
+#: admin/views/section_results.php:86
+msgid "Start again"
+msgstr "Torna a començar"
+
+#: admin/views/form_confirm.php:182
+msgid "or refine your selection with the following form fields."
+msgstr "o refinar la vostra selecció amb els camps de formulari següents."
+
+#: admin/views/form_refine.php:1
+msgid "Refine your selection"
+msgstr "Refina la teva selecció"
+
+#: admin/views/form_refine.php:8
+msgid "Refine filters"
+msgstr "Refinar filtres"
+
+#: admin/views/form_refine.php:9
+msgid ""
+"Now you can find posts and pages by matching parameters. Refine them here."
+msgstr ""
+"Ara podeu trobar missatges i pàgines fent coincidir paràmetres. "
+"Perfecciona'ls aquí."
+
+#: admin/views/form_refine.php:10
+msgid "Whatever you do: You can confirm your choice on the next page."
+msgstr ""
+"Facis el que facis: pots confirmar la teva elecció a la pàgina següent."
+
+#: admin/views/form_refine.php:18
+#, php-format
+msgid "File %s is not available."
+msgstr "El %s fitxer no està disponible."
+
+#: admin/views/form_refine.php:48 admin/views/form_select.php:29
+msgid "Preview filtering"
+msgstr "Visualització prèvia de filtratge"
+
+#: admin/views/form_refine.php:54
+msgid ""
+"There are no selected filters. Modify your filter selection or just go on by "
+"clicking on the next button."
+msgstr ""
+"No hi ha filtres seleccionats. Modifiqueu la selecció de filtres o "
+"simplement se'n va fent clic al botó següent."
+
+#: admin/views/form_select.php:9 admin/views/form_start.php:4
+#: admin/views/section_defaults.php:217
+msgid "Notice"
+msgstr "Anotació"
+
+#: admin/views/form_select.php:11
+msgid ""
+"You did not have selected an image from the list below. To go on select at "
+"least one image you want to replace by the selected image."
+msgstr ""
+"No heu seleccionat una imatge de la llista següent. Per continuar "
+"seleccionant com a mínim una imatge que voleu reemplaçar per la imatge "
+"seleccionada."
+
+#: admin/views/form_select.php:17
+msgid "Select the featured images you want to replace by the selected image."
+msgstr ""
+"Seleccioneu les imatges destacades que voleu reemplaçar per la imatge "
+"seleccionada."
+
+#: admin/views/form_select.php:18
+msgid "You can select multiple images. Select at least one image."
+msgstr ""
+"Podeu seleccionar diverses imatges. Seleccioneu com a mínim una imatge."
+
+#: admin/views/form_select.php:19 admin/views/form_start.php:80
+msgid ""
+"To select multiple images click on the button and use the CTRL key while "
+"clicking on the images."
+msgstr ""
+"Per seleccionar diverses imatges feu clic al botó i utilitzeu la tecla CTRL "
+"mentre feu clic a les imatges."
+
+#: admin/views/form_select.php:23 admin/views/form_start.php:84
+msgid "Choose Images"
+msgstr "Tria imatges"
+
+#: admin/views/form_select.php:31 admin/views/form_start.php:119
+msgid "Use CTRL for multiple choice"
+msgstr "Usa CTRL per a una opció múltiple"
+
+#: admin/views/form_select.php:37
+msgid "Refine your selections"
+msgstr "Refina les teves seleccions"
+
+#: admin/views/form_select.php:38 admin/views/form_select.php:48
+msgid "You can control the process with the following options."
+msgstr "Podeu controlar el procés amb les opcions següents."
+
+#: admin/views/form_select.php:45
+msgid "Optional: Select options"
+msgstr "Opcional: seleccioneu les opcions"
+
+#: admin/views/form_select.php:47
+msgid "Process Options"
+msgstr "Opcions de procés"
+
+#: admin/views/form_select.php:53
+msgid "Overwrite existing featured images with new ones"
+msgstr "Sobreescriu les imatges destacades existents amb les noves"
+
+#: admin/views/form_select.php:63
+msgid ""
+"Posts with featured images will be ignored, even if the Overwrite option is "
+"checked"
+msgstr ""
+"S' ignoraran els missatges amb imatges destacades, fins i tot si l' opció "
+"Sobreescriu està marcada"
+
+#: admin/views/form_select.php:72
+msgid "There are two more options in the Pro version for random images:"
+msgstr "Hi ha dues opcions més a la versió Pro per a imatges aleatòries:"
+
+#: admin/views/form_select.php:74
+msgid "Use each selected image only once"
+msgstr "Usa cada imatge seleccionada només una vegada"
+
+#: admin/views/form_select.php:75
+msgid "Remove excess featured images after all selected images are used"
+msgstr ""
+"Elimina l'excés d'imatges destacades després d'utilitzar totes les imatges "
+"seleccionades"
+
+#: admin/views/form_select.php:85
+msgid "Optional: Add a filter"
+msgstr "Opcional: afegeix un filtre"
+
+#: admin/views/form_select.php:87
+msgid "Select filters"
+msgstr "Seleccioneu filtres"
+
+#: admin/views/form_select.php:88
+msgid ""
+"If you want select one of the following filters to narrow down the set of "
+"concerned posts and pages."
+msgstr ""
+"Si voleu seleccionar un dels filtres següents per reduir el conjunt de "
+"publicacions i pàgines corresponents."
+
+#: admin/views/form_select.php:89
+msgid ""
+"You can select multiple filters. They will return an intersection of their "
+"results."
+msgstr ""
+"Podeu seleccionar diversos filtres. Tornaran una intersecció dels seus "
+"resultats."
+
+#: admin/views/form_select.php:94
+msgid "Search by post type. By default all posts and pages will be affected."
+msgstr ""
+"Cerca per tipus de correu. Per defecte, tots els missatges i pàgines es "
+"veuran afectats."
+
+#: admin/views/form_select.php:97
+msgid "Search posts by category"
+msgstr "Cercar missatges per categoria"
+
+#: admin/views/form_select.php:100
+msgid "Search posts by tag"
+msgstr "Cercar publicacions per etiqueta"
+
+#: admin/views/form_select.php:114
+msgid "If you encounter a white, blank page, read this"
+msgstr "Si trobeu una pàgina en blanc i en blanc, llegiu aquesta"
+
+#: admin/views/form_select.php:115
+#| msgid ""
+#| "Facing a white blank page while trying to treat thousands of posts is the "
+#| "effect of limited memory capacities on the website server. Instead of "
+#| "treating a huge amount of posts in one single go try to treat small "
+#| "amounts of posts multiple times successively. To achieve that do:"
+msgid ""
+"Facing a white blank page while trying to treat thousands of posts is the "
+"effect of limited memory capacities on the website server. Instead of "
+"treating a huge amount of posts in one single go try to treat small amounts "
+"of posts multiple times successively."
+msgstr ""
+
+#: admin/views/form_select.php:116
+#| msgid ""
+#| "This way is not as fast as one single run, but still much faster than "
+#| "setting the images for each post manually."
+msgid ""
+"To achieve that use the filters and repeat the process until your task is "
+"done. This way is not as fast as one single run, but still much faster than "
+"setting the images for each post manually."
+msgstr ""
+
+#: admin/views/form_select.php:121
+msgid ""
+"On the next page you can refine the filters. If you did not select any "
+"filter you will go to the preview list directly."
+msgstr ""
+"A la pàgina següent podeu definir millor els filtres. Si no heu seleccionat "
+"cap filtre, aneu directament a la llista de previsualització."
+
+#: admin/views/form_start.php:6 admin/views/section_defaults.php:219
+msgid ""
+"The current theme does not support featured images. Anyway you can use this "
+"plugin. The effects are stored and will be visible in a theme which supports "
+"featured images."
+msgstr ""
+"El tema actual no admet imatges destacades. De tota manera pot utilitzar "
+"aquest plugin. Els efectes s'emmagatzemen i seran visibles en un tema que "
+"suporta imatges destacades."
+
+#: admin/views/form_start.php:12
+msgid "What do you want to do?"
+msgstr "Què vols fer?"
+
+#: admin/views/form_start.php:14
+msgid ""
+"Here you can add, replace and delete featured images to your posts. Select "
+"one of the following actions and, if necessary, one or more images."
+msgstr ""
+"Aquí pot afegir, reemplaçar i suprimir imatges presentades als seus correus. "
+"Seleccioneu una de les accions següents i, si cal, una o més imatges."
+
+#: admin/views/form_start.php:15
+msgid "Whatever you select: You can refine your choice on the next page."
+msgstr ""
+"El que seleccioneu: podeu definir millor la vostra elecció a la pàgina "
+"següent."
+
+#: admin/views/form_start.php:17
+msgid "Important advice"
+msgstr "Consells importants"
+
+#: admin/views/form_start.php:18
+msgid ""
+"There is no undo function! It is strongly recommended that you make a backup "
+"of the WordPress database before you perform mass changes."
+msgstr ""
+"No hi ha cap funció desfer! És molt recomanable fer una còpia de seguretat "
+"de la base de dades de WordPress abans de realitzar canvis massius."
+
+#: admin/views/form_start.php:20
+msgid "Select action"
+msgstr "Seleccioneu l'acció"
+
+#: admin/views/form_start.php:21
+msgid "Actions with a single image"
+msgstr "Accions amb una sola imatge"
+
+#: admin/views/form_start.php:22
+msgid "These actions require to select an image with the following button."
+msgstr ""
+"Aquestes accions requereixen seleccionar una imatge amb el botó següent."
+
+#: admin/views/form_start.php:35
+msgid ""
+"Select the image you want to add to, replace or delete from posts and pages "
+"by clicking on the following button."
+msgstr ""
+"Seleccioneu la imatge que voleu afegir, substituïr o suprimir de les "
+"publicacions i les pàgines, fent clic al botó següent."
+
+#: admin/views/form_start.php:57
+msgid "Choose Image"
+msgstr "Selecció d'imatge"
+
+#: admin/views/form_start.php:61
+msgid "If the button does not work, read this:"
+msgstr "Si el botó no funciona, llegiu això:"
+
+#: admin/views/form_start.php:62
+msgid ""
+"Some users reported that this button would not work in some WordPress "
+"installations. If this should be the case you can take another way:"
+msgstr ""
+"Alguns usuaris van informar que aquest botó no funcionaria en algunes "
+"instal·lacions de WordPress. Si aquest ha de ser el cas pot prendre una "
+"altra manera:"
+
+#: admin/views/form_start.php:63
+msgid ""
+"1. Go to the media library. 2. Move the mouse over the desired image. "
+"Further links are appearing, among them the link &quot;Bulk set as featured "
+"image&quot;. 3. After a click on it you can move on in this plugin."
+msgstr ""
+"1. Aneu a la biblioteca multimèdia. 2. Moveu el ratolí sobre la imatge "
+"desitjada. Apareixen més enllaços, entre ells l'enllaç &amp; quot;Conjunt "
+"massiu com a imatge destacada&amp;quot;. 3. Després d'un clic en ell es pot "
+"seguir endavant en aquest plugin."
+
+#: admin/views/form_start.php:67
+msgid "Actions with multiple images"
+msgstr "Accions amb diverses imatges"
+
+#: admin/views/form_start.php:68
+msgid ""
+"These actions require at least one selected image with the following button."
+msgstr ""
+"Aquestes accions requereixen almenys una imatge seleccionada amb el botó "
+"següent."
+
+#: admin/views/form_start.php:101
+msgid "Actions without any selected image"
+msgstr "Accions sense cap imatge seleccionada"
+
+#: admin/views/form_start.php:102
+msgid "These actions do not require a selected image."
+msgstr "Aquestes accions no requereixen una imatge seleccionada."
+
+#: admin/views/section_defaults.php:16
+msgid "matches"
+msgstr "coincidències"
+
+#: admin/views/section_defaults.php:59
+msgid "Post Type"
+msgstr "Tipus d'entrada"
+
+#: admin/views/section_defaults.php:208
+msgid "Default featured images for future posts"
+msgstr "Imatges destacades per defecte per a futures publicacions"
+
+#: admin/views/section_defaults.php:210
+msgid ""
+"Define the rules to use images as default featured images automatically "
+"every time a post is saved."
+msgstr ""
+"Definiu les regles per utilitzar les imatges com a imatges destacades per "
+"defecte automàticament cada vegada que es desa una publicació."
+
+#: admin/views/section_defaults.php:211
+msgid ""
+"To use a rule choose the image and set both the taxonomy and the value. A "
+"rule which is defined only partially will be ignored."
+msgstr ""
+"Per utilitzar una regla, trieu la imatge i definiu tant la taxonomia com el "
+"valor. S'ignorarà parcialment una norma que només es defineix parcialment."
+
+#: admin/views/section_defaults.php:238
+msgid "An image overwrites an existing image"
+msgstr "Una imatge sobreescriu una imatge existent"
+
+#: admin/views/section_defaults.php:242
+msgid ""
+"Activate to automatically overwrite an existing featured image while saving "
+"a post"
+msgstr ""
+"Activar per sobreescriure automàticament una imatge destacada existent en "
+"desar una publicació"
+
+#: admin/views/section_defaults.php:244
+msgid ""
+"If activated the rule is used automatically while saving a post to overwrite "
+"an existing featured image with the new one based on the following rules. Do "
+"not use this if you want to keep manually set featured images."
+msgstr ""
+"Si s'activa la regla s'utilitza automàticament mentre es desa una publicació "
+"per sobreescriure una imatge destacada existent amb la nova en funció de les "
+"regles següents. No utilitzeu això si voleu conservar manualment les imatges "
+"destacades."
+
+#: admin/views/section_defaults.php:251
+msgid "Text with images in WordPress editor"
+msgstr "Text amb imatges a l'editor de WordPress"
+
+#: admin/views/section_defaults.php:255
+msgid ""
+"Activate to automatically use the first content image if available in the "
+"media library as featured image while saving a post"
+msgstr ""
+"Activa per utilitzar automàticament la primera imatge de contingut si està "
+"disponible a la biblioteca multimèdia com a imatge destacada mentre desa una "
+"publicació"
+
+#: admin/views/section_defaults.php:257
+msgid ""
+"If activated the rule is used automatically while saving a post to set the "
+"first content image - if available in the media library - as the featured "
+"image of the post. If the post has no content images the next rules will be "
+"applied."
+msgstr ""
+"Si s'activa la regla s'utilitza automàticament mentre es desa una publicació "
+"per definir la primera imatge de contingut - si està disponible a la "
+"biblioteca multimèdia - com la imatge destacada de la publicació. Si la "
+"publicació no té imatges de contingut, s'aplicaran les regles següents."
+
+#: admin/views/section_defaults.php:258
+msgid "For which post types should this rule be applied?"
+msgstr "Per a quins tipus de publicació s'ha d'aplicar aquesta regla?"
+
+#: admin/views/section_defaults.php:285
+msgid ""
+"Select at least one post type, otherwise all post types will be considered."
+msgstr ""
+"Seleccioneu com a mínim un tipus d'entrada, en cas contrari es consideraran "
+"tots els tipus d'entrada."
+
+#: admin/views/section_defaults.php:491
+msgid "Add rule"
+msgstr "Afegir regla"
+
+#: admin/views/section_defaults.php:496
+msgid "Are you sure to remove this rule?"
+msgstr "Esteu segur de suprimir aquesta regla?"
+
+#: admin/views/section_defaults.php:499
+msgid "How the rules work"
+msgstr "Com funcionen les regles"
+
+#: admin/views/section_defaults.php:500
+msgid ""
+"Every time you save a post the post get the featured image if one of the "
+"following rules match a property of the post. You can also set rules for "
+"pages and all other current post types which support featured images."
+msgstr ""
+"Cada vegada que deseu una publicació, la publicació obté la imatge destacada "
+"si una de les regles següents coincideix amb una propietat de la publicació. "
+"També podeu definir regles per a les pàgines i tots els altres tipus "
+"d'entrada actuals que admeten imatges destacades."
+
+#: admin/views/section_defaults.php:501
+msgid ""
+"Regardless of the order in the list the rules are applied in the following "
+"order until a rule and a property of the post fit together:"
+msgstr ""
+"Independentment de l'ordre de la llista, les regles s'apliquen en l'ordre "
+"següent fins que una regla i una propietat del lloc encaixin:"
+
+#: admin/views/section_defaults.php:503
+msgid "found first content image. If not then..."
+msgstr "s'ha trobat la primera imatge de contingut. Si no llavors..."
+
+#: admin/views/section_defaults.php:504
+msgid "matched custom taxonomy. If not then..."
+msgstr "taxaonomia personalitzada aparellada. Si no llavors..."
+
+#: admin/views/section_defaults.php:505
+msgid "matched tag. If not then..."
+msgstr "etiqueta aparellada. Si no llavors..."
+
+#: admin/views/section_defaults.php:506
+msgid "matched category. If not then..."
+msgstr "categoria aparellada. Si no llavors..."
+
+#: admin/views/section_defaults.php:507
+msgid "matched author. If not then..."
+msgstr "l'autor. Si no llavors..."
+
+#: admin/views/section_defaults.php:508
+msgid "matched post type. If not then..."
+msgstr "tipus de publicació aparellat. Si no llavors..."
+
+#: admin/views/section_defaults.php:509
+msgid "no featured image."
+msgstr "no hi ha cap imatge destacada."
+
+#: admin/views/section_defaults.php:511
+msgid ""
+"Bear in mind that if two or more rules with the same taxonomy would fit to "
+"the post it is unforeseeable which image will become the featured image."
+msgstr ""
+"Tingueu en compte que si dues o més regles amb la mateixa taxonomia "
+"s'ajusten al lloc és imprevisible quina imatge es convertirà en la imatge "
+"destacada."
+
+#: admin/views/section_defaults.php:512
+msgid "Additional rules in the Pro version"
+msgstr "Regles addicionals en la versió Pro"
+
+#: admin/views/section_defaults.php:514
+msgid "Multiple images to set them randomly as featured image"
+msgstr "Diverses imatges per definir-les aleatòriament com a imatge destacada"
+
+#: admin/views/section_defaults.php:515
+msgid "Random featured images at each page load"
+msgstr "Imatges destacades aleatòries a cada càrrega de pàgina"
+
+#: admin/views/section_defaults.php:516
+msgid ""
+"The first content image can be also an image from an external server to set "
+"it as automated featured image"
+msgstr ""
+"La primera imatge de contingut també pot ser una imatge d'un servidor extern "
+"per definir-la com a imatge destacada automàtica"
+
+#: admin/views/section_defaults.php:517
+msgid ""
+"Remove the first content image automatically after the featured image was "
+"set successfully"
+msgstr ""
+"Elimineu la primera imatge de contingut automàticament després que la imatge "
+"destacada s'ha definit correctament"
+
+#: admin/views/section_defaults.php:518
+msgid "Match with a search string in post title"
+msgstr "Coincideix amb una cadena de cerca al títol de l'entrada"
+
+#: admin/views/section_defaults.php:519
+msgid "Match with a selected post format"
+msgstr "Coincideix amb un format de publicació seleccionat"
+
+#: admin/views/section_defaults.php:520
+msgid "User defined order of rules"
+msgstr "Ordre definit per l'usuari de les normes"
+
+#: admin/views/section_defaults.php:521
+msgid "Import your rules from this plugin into the Pro plugin"
+msgstr "Importa les teves regles des d' aquest connector al connector Pro"
+
+#: admin/views/section_errormsg.php:1
+msgid "Error"
+msgstr "Error"
+
+#: admin/views/section_errormsg.php:3
+msgid "Reason"
+msgstr "Raó"
+
+#: admin/views/section_errormsg.php:5
+msgid "Solution"
+msgstr "Solució"
+
+#: admin/views/section_footer.php:16
+msgid "Credits and informations"
+msgstr "Crèdits i informacions"
+
+#: admin/views/section_footer.php:18 admin/views/section_results.php:87
+msgid "Do you like the plugin?"
+msgstr "T'agrada el connector?"
+
+#: admin/views/section_footer.php:18 admin/views/section_results.php:88
+msgid "Please rate it at wordpress.org!"
+msgstr "Si us plau, valori'l a wordpress.org!"
+
+#: admin/views/section_footer.php:19
+msgid "Do you need support or have an idea for the plugin?"
+msgstr "Necessites suport o tens una idea per al connector?"
+
+#: admin/views/section_footer.php:19
+msgid ""
+"Post your questions and ideas about Quick Featured Images in the forum at "
+"wordpress.org!"
+msgstr ""
+"Publica les teves preguntes i idees sobre imatges ràpides destacades en el "
+"fòrum a wordpress.org!"
+
+#: admin/views/section_footer.php:20
+msgid ""
+"Let the thumbnails appear in the widget of the most recent posts with this "
+"fast plugin"
+msgstr ""
+"Deixeu que les miniatures apareguin en el widget dels missatges més recents "
+"amb aquest connector ràpid"
+
+#: admin/views/section_footer.php:20
+#, php-format
+msgid "Download plugin %s at %s!"
+msgstr "Descarregar plugin %s a %s!"
+
+#: admin/views/section_header_progress.php:15
+msgid "Progress bar"
+msgstr "Barra de progrés"
+
+#: admin/views/section_header_progress.php:17
+msgid "You are here"
+msgstr "Ets aquí"
+
+#: admin/views/section_image.php:1
+msgid "Your selection"
+msgstr "La teva selecció"
+
+#: admin/views/section_image.php:9
+msgid "Your selected thumbnail"
+msgstr "Miniatura seleccionada"
+
+#: admin/views/section_image.php:12
+msgid "Image title"
+msgstr "Títol de la imatge"
+
+#: admin/views/section_image.php:14 admin/views/section_image.php:36
+msgid "If wrong image start again"
+msgstr "Si l'imatge es incorrecta, torni a començar"
+
+#: admin/views/section_image.php:23
+msgid "Your selected thumbnails"
+msgstr "Miniatures seleccionades"
+
+#: admin/views/section_image.php:42
+msgid "Your selected action"
+msgstr "Acció seleccionada"
+
+#: admin/views/section_image.php:55
+msgid "If wrong action start again"
+msgstr "Si l'acció es incorrecta, torni a començar"
+
+#: admin/views/section_image.php:68
+msgid "Your selected options"
+msgstr "Opcions seleccionades"
+
+#: admin/views/section_image.php:84
+msgid "No selected options"
+msgstr "No hi ha opcions seleccionades"
+
+#: admin/views/section_image.php:90
+msgid "Your selected filters"
+msgstr "Filtres seleccionats"
+
+#: admin/views/section_image.php:106
+msgid "No selected filters"
+msgstr "No hi ha filtres seleccionats"
+
+#: admin/views/section_overview.php:17
+msgid "Manage featured images in a quick way"
+msgstr "Gestionar les imatges destacades d'una manera ràpida"
+
+#: admin/views/section_results.php:1
+msgid "Results of the action"
+msgstr "Resultats de l'acció"
+
+#: admin/views/section_results.php:19
+msgid "Changed successfully"
+msgstr "S'ha canviat correctament"
+
+#: admin/views/section_results.php:20
+msgid "Unchanged"
+msgstr "No s'ha canviat res"
+
+#: admin/views/section_results.php:82
+msgid "No matches found."
+msgstr "No s'ha trobat cap coincidència."
+
+#~ msgid "add the time filter,"
+#~ msgstr "afegeix el filtre de temps,"
+
+#~ msgid "set a small time range,"
+#~ msgstr "establir un petit interval de temps,"
+
+#~ msgid "do the process"
+#~ msgstr "fer el procés"
+
+#~ msgid "and repeat it with the next time range as often as needed."
+#~ msgstr ""
+#~ "i repetiu-lo amb el següent interval de temps tantes vegades com sigui "
+#~ "necessari."
+
+#~ msgid "Get the Pro version"
+#~ msgstr "Obtenir la versió Pro"
+
+#~ msgid "/"
+#~ msgstr "/"
+
+#~ msgid "Are you looking for more options and more filters?"
+#~ msgstr "Esteu cercant més opcions i més filtres?"
+
+#~ msgid "Do you want to assign the first image of each post?"
+#~ msgstr "Voleu assignar la primera imatge de cada publicació?"
+
+#~ msgid "Do you want to use external featured images, e.g. from a CDN?"
+#~ msgstr ""
+#~ "Voleu utilitzar imatges destacades externes, per exemple, des d'un CDN?"
+
+#~ msgid ""
+#~ "The plugin is for free. But the plugin author would be delighted to your "
+#~ "small contribution."
+#~ msgstr ""
+#~ "El plugin és de franc. Però l'autor plugin estaria encantat amb la seva "
+#~ "petita contribució."
+
+#~ msgid "Donation Button"
+#~ msgstr "Botó de donació"
+
+#~ msgid "Donate with PayPal"
+#~ msgstr "Donar amb PayPal"
+
+#~ msgid "The Pro version"
+#~ msgstr "La versió Pro"

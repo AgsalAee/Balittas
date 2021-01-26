@@ -1,0 +1,40 @@
+.so-widget-sow-headline-default-9cad0c9f3627 .sow-headline-container h1.sow-headline {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #fcfcfc;
+  line-height: 1.4em;
+  font-size: 32px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.so-widget-sow-headline-default-9cad0c9f3627 .sow-headline-container h1.sow-headline a {
+  color: #fcfcfc;
+}
+.so-widget-sow-headline-default-9cad0c9f3627 .sow-headline-container h3.sow-sub-headline {
+  text-align: center;
+  
+  line-height: 1.4em;
+  
+  
+  
+}
+.so-widget-sow-headline-default-9cad0c9f3627 .sow-headline-container .decoration {
+  line-height: 0em;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.so-widget-sow-headline-default-9cad0c9f3627 .sow-headline-container .decoration .decoration-inside {
+  height: 1px;
+  display: inline-block;
+  border-top: 0px double #0003d8;
+  width: 100%;
+  max-width: 70%;
+}
+.so-widget-sow-headline-default-9cad0c9f3627 .sow-headline-container *:first-child {
+  margin-top: 0 !important;
+}
+.so-widget-sow-headline-default-9cad0c9f3627 .sow-headline-container *:last-child {
+  margin-bottom: 0 !important;
+}
