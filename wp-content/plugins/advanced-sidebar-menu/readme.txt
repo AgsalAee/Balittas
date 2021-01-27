@@ -6,7 +6,7 @@ Tags: menus, sidebar menu, hierarchy, category menu, pages menu
 Requires at least: 5.0.0
 Tested up to: 5.6.0
 Requires PHP: 5.6.0
-Stable tag: 8.2.0
+Stable tag: 8.3.0
 
 == Description ==
 
@@ -78,9 +78,12 @@ Keeps the menu clean and usable. Only related items display so you don't have to
 * Option to display the top-level navigation menu items when there are no child items or not viewing a menu item.
 * Priority support with access to members only support area.
 
-<h3>Currently ships with the following languages</h3>
-* English (US)
+<h3>Translations</h3>
+This plugin includes the following languages:
+* English (en_US)
+* French (fr_FR)
 * German (de_DE)
+* Spanish (es_ES)
    
 <h3>Developers</h3>
 Developer docs may be found <a target="_blank" href="https://onpointplugins.com/advanced-sidebar-menu/developer-docs/">here</a>.
@@ -152,14 +155,22 @@ Yes. Based on whatever page, post, or category you are on, the menu will change 
 
 
 == Changelog ==
+= 8.3.0 =
+* Improved plugin headers.
+* Added translations for French (fr_FR).
+* Added translations for Spanish (es_ES).
+* Expose `Category::is_tax` method for public filters.
+* Improved type casting and PHPStan static type checking.
+* Fix tense in readme.txt words.
+
 = 8.2.0 =
-* Improve widget labels, descriptions and styles.
+* Improved widget labels, descriptions and styles.
 * Support blocked styling borders on all levels.
-* Improve Beaver Builder and Elementor styles.
-* Improve info panel.
+* Improved Beaver Builder and Elementor styles.
+* Improved info panel.
 
 = 8.1.1 =
-* Improve readme.
+* Improved readme.
 * Tested to WordPress 5.6.0.
 
 = 8.1.0 =
@@ -171,7 +182,7 @@ Yes. Based on whatever page, post, or category you are on, the menu will change 
 * Improved JavaScript structure.
 
 = 8.0.4 =
-* Improve styles when used with Beaver Builder.
+* Improved styles when used with Beaver Builder.
 * Require WordPress version 5.0.0+.
 
 = 8.0.3 =
@@ -179,7 +190,7 @@ Yes. Based on whatever page, post, or category you are on, the menu will change 
 * Make debugging functionality more stable.
 
 = 8.0.2 = 
-* Introduce new `advanced-sidebar-menu/menus/category/get-child-terms` filter
+* Introduced new `advanced-sidebar-menu/menus/category/get-child-terms` filter
 * Support filtering the first level of categories.
 * Use `is_excluded` vs `is_first_level_category` in category view.
 
@@ -205,10 +216,10 @@ Major version update. See <a href="https://onpointplugins.com/advanced-sidebar-m
 
 = 7.7.0 =
 * Enable accordion previews when editing via Beaver Builder.
-* Greatly improve widget styles and UI when using Elementor.
+* Greatly improved widget styles and UI when using Elementor.
 * Overall third party page builder improvements.
 * Move scripts and styles into new Scripts class.
-* Introduce a new Singleton trait.
+* Introduced a new Singleton trait.
 
 = 7.6.0 =
 * Elementor support for multiple widgets of the same type on the same page.
@@ -218,31 +229,6 @@ Major version update. See <a href="https://onpointplugins.com/advanced-sidebar-m
 = 7.5.0 =
 * Convert "Always display child pages" to use our List_Pages structure and support all widget options.
 * Bump required PHP version to 5.4.4.
-
-= 7.4.0 =
-* Added support for Beaver Builder
-
-= 7.3.0 =
-* Greatly improve category widget performance
-
-= 7.2.0 =
-* New improved widget structure
-
-= 7.1.0 =
-* Support Pro Version 3.0.0
-* Add German translations
-* Begin converting code formatting to strict WordPress standards
-
-= 7.0.0 =
-* Restructure the codebase to a more modern PSR4 structure
-* Improve cache handling
-* Improve verbiage in the admin
-* Implement new actions and filters
-* Rebuild templates for improved stability and future changes
-* Improve performance
-* Kill conflicting backward compatibility with version 5
-* Open up more extendability possibilities
-
 
 == Upgrade Notice ==
 = 8.2.0 =

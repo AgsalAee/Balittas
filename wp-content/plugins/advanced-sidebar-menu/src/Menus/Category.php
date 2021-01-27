@@ -70,7 +70,7 @@ class Category extends Menu_Abstract {
 		switch ( $level ) {
 			case self::LEVEL_PARENT:
 				$args['hide_empty'] = 0;
-				$args['include'] = trim( $this->get_top_parent_id() );
+				$args['include'] = trim( (string) $this->get_top_parent_id() );
 				break;
 			case self::LEVEL_DISPLAY_ALL:
 				$args['child_of'] = $this->get_top_parent_id();
@@ -184,7 +184,7 @@ class Category extends Menu_Abstract {
 	 * Get this menu's taxonomy.
 	 * Defaults to 'category'.
 	 *
-	 * @return int
+	 * @return string
 	 */
 	public function get_taxonomy() {
 		return apply_filters( 'advanced-sidebar-menu/menus/category/taxonomy', 'category', $this->args, $this->instance, $this );
@@ -194,7 +194,7 @@ class Category extends Menu_Abstract {
 	/**
 	 * Get id of the highest level parent item.
 	 *
-	 * @return int
+	 * @return ?int
 	 */
 	public function get_top_parent_id() {
 		if ( empty( $this->top_level_term->term_id ) ) {
@@ -271,12 +271,11 @@ class Category extends Menu_Abstract {
 
 
 	/**
-	 * Simplified way to verify if we are on a taxonomy
-	 * archive
+	 * Simplified way to verify if we are on a taxonomy archive.
 	 *
 	 * @return bool
 	 */
-	protected function is_tax() {
+	public function is_tax() {
 		$taxonomy = $this->get_taxonomy();
 		if ( 'category' === $taxonomy ) {
 			if ( is_category() ) {
@@ -348,7 +347,7 @@ class Category extends Menu_Abstract {
 	 * If a category has children add the 'has_children' class
 	 * to the list item.
 	 *
-	 * @param  []       $classes - List of classes added to category list item.
+	 * @param array    $classes - List of classes added to category list item.
 	 * @param \WP_Term $category - Current category.
 	 *
 	 * @filter category_css_class 11 2
